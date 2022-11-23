@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/chr2020/index.html",
+      "/publications/linked_potter/index.html",
+      "/publications/first_wattpad/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/hiring/index.html",
+      "/publications/chr2020/index.html",
+      "/publications/linked_potter/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/hiring/index.html"
+    ]
+  }
+]
