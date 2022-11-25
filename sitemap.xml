@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://golemlab.eu/publications/index.html</loc>
-    <lastmod>2022-11-23T11:43:47.788Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/first_wattpad/index.html</loc>
-    <lastmod>2022-11-23T11:43:48.572Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/chr2020/index.html</loc>
-    <lastmod>2022-11-23T11:43:48.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/linked_potter/index.html</loc>
-    <lastmod>2022-11-23T11:43:49.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/index.html</loc>
-    <lastmod>2022-11-23T11:43:50.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/about/index.html</loc>
-    <lastmod>2022-11-23T11:43:50.672Z</lastmod>
+    <loc>https://golemlab.eu/news/index.html</loc>
+    <lastmod>2022-11-25T09:47:06.881Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/news/hiring/index.html</loc>
-    <lastmod>2022-11-23T11:43:51.420Z</lastmod>
+    <lastmod>2022-11-25T09:47:07.669Z</lastmod>
   </url>
   <url>
-    <loc>https://golemlab.eu/news/index.html</loc>
-    <lastmod>2022-11-23T11:43:52.208Z</lastmod>
+    <loc>https://golemlab.eu/index.html</loc>
+    <lastmod>2022-11-25T09:47:08.469Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/about/index.html</loc>
+    <lastmod>2022-11-25T09:47:08.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/index.html</loc>
+    <lastmod>2022-11-25T09:47:09.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/linked_potter/index.html</loc>
+    <lastmod>2022-11-25T09:47:09.857Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/first_wattpad/index.html</loc>
+    <lastmod>2022-11-25T09:47:10.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/chr2020/index.html</loc>
+    <lastmod>2022-11-25T09:47:10.545Z</lastmod>
   </url>
 </urlset>
