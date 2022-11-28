@@ -18,7 +18,7 @@
     "href": "news/hiring/index.html#postdoc",
     "title": "We’re hiring!",
     "section": "Postdoc",
-    "text": "Postdoc\nApplications are invited for a 1.5 year position as postdoctoral researcher with expertise in graph databases, ontology creation, and graph reasoning.\nOfficial announcment coming soon."
+    "text": "Postdoc\nApplications are invited for a 1.5 year position (0.8 FTE) as postdoctoral researcher with expertise in graph databases, ontology creation, and graph reasoning.\nIn collaboration with the PI and a technician, you will work on the definition of an ontology and creation of a graph database compatible with Wikidata and other projects about the digitization of literary texts.\nYou will contribute to:\n\ndefine the ontology to be used throughout the project\norganize data in a local database\nset up and maintain a triple store with extracted metadata\nensure communication between the local database and the triple store with a public SPARQL endpoint\nenrich the triple store with information obtained via rule-based and graph reasoning techniques\ndisseminate the project’s activities.\n\nSee the official announcment for more information and to apply."
   },
   {
     "objectID": "news/hiring/index.html#database-technician",
