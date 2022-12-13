@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://golemlab.eu/index.html</loc>
+    <lastmod>2022-12-13T23:46:15.164Z</lastmod>
+  </url>
+  <url>
     <loc>https://golemlab.eu/news/index.html</loc>
-    <lastmod>2022-11-30T07:37:05.076Z</lastmod>
+    <lastmod>2022-12-13T23:46:15.824Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/news/hiring/index.html</loc>
-    <lastmod>2022-11-30T07:37:05.824Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/index.html</loc>
-    <lastmod>2022-11-30T07:37:06.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/about/index.html</loc>
-    <lastmod>2022-11-30T07:37:06.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/index.html</loc>
-    <lastmod>2022-11-30T07:37:07.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/linked_potter/index.html</loc>
-    <lastmod>2022-11-30T07:37:08.068Z</lastmod>
+    <lastmod>2022-12-13T23:46:16.488Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/publications/first_wattpad/index.html</loc>
-    <lastmod>2022-11-30T07:37:08.444Z</lastmod>
+    <lastmod>2022-12-13T23:46:16.808Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/publications/chr2020/index.html</loc>
-    <lastmod>2022-11-30T07:37:08.780Z</lastmod>
+    <lastmod>2022-12-13T23:46:17.088Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/index.html</loc>
+    <lastmod>2022-12-13T23:46:17.736Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/linked_potter/index.html</loc>
+    <lastmod>2022-12-13T23:46:18.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/about/index.html</loc>
+    <lastmod>2022-12-13T23:46:20.052Z</lastmod>
   </url>
 </urlset>

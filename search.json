@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "GOLEM Lab",
+    "section": "News",
+    "text": "News\n\n\n\n\n\n\n\n\n\n\nWe’re hiring!\n\n\n\n\n\n\n\nNo matching items\n\n\n\nALL PROJECTS"
+  },
+  {
+    "objectID": "index.html#latest-publications",
+    "href": "index.html#latest-publications",
+    "title": "GOLEM Lab",
+    "section": "Latest Publications",
+    "text": "Latest Publications\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nCultural accumulation and improvement in online fan fiction\n\n\nNov 1, 2020\n\n\n\n\nLinked-Potter: an example of ontology for the study of the evolution of literature and reading communities\n\n\nNov 1, 2020\n\n\n\n\n\n\nNo matching items\n\n\n\nall publications"
+  },
+  {
     "objectID": "news/index.html",
     "href": "news/index.html",
     "title": "News",
@@ -35,48 +49,6 @@
     "text": "PhD students\n\n2 PhD positions in Digital Humanities and Natural Language Processing\nIn collaboration with the other team members, you will work on your own multilingual and cross-cultural research project. The project is very interdisciplinary, combining computational methods for the analysis of language and culture and psychometric experiments with readers. The focus will be on changes over a time span of 20 years in how people write (fanfiction) stories, in terms of themes, tropes, and style. In parallel, you will also look at how these changes influence the reception of stories. You will learn skills related to database management, linked data, data science, machine learning, and experimental design for reading research.\nThe universtiy of Groningen has very strong researchers working in Digital Humanities, Computational Linguistics, and Media Studies from which you can learn a lot.\nSee the official announcement for more information and to apply.\nWe also accept applications for externally funded PhD students. For example:\n\nfor Australians, the John Monash Scholarship\nfor Chinese, the China Scholarship Council (CSC)"
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "GOLEM Lab",
-    "section": "News",
-    "text": "News\n\n\n\n\n\n\n\n\n\n\nWe’re hiring!\n\n\n\n\n\n\n\nNo matching items\n\n\n\nALL PROJECTS"
-  },
-  {
-    "objectID": "index.html#latest-publications",
-    "href": "index.html#latest-publications",
-    "title": "GOLEM Lab",
-    "section": "Latest Publications",
-    "text": "Latest Publications\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nCultural accumulation and improvement in online fan fiction\n\n\nNov 1, 2020\n\n\n\n\nLinked-Potter: an example of ontology for the study of the evolution of literature and reading communities\n\n\nNov 1, 2020\n\n\n\n\n\n\nNo matching items\n\n\n\nall publications"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "GOLEM Lab",
-    "section": "",
-    "text": "The project\n\nThe “Graphs and Ontologies for Literary Evolution Models” is a 5-year (2023-2027) research project funded by the European Commission (ERC StG).\nThe goal of the project is to create accurate models of how the (formal and content-related) cultural traits of fiction spread and combine. The data used are fanfiction stories in 5 different languages (English, Spanish, Italian, Korean, and Indonesian) gathered from various online platforms.\nThe methodology combines mainly computational literary studies and cultural evolution theory, with influences from fan studies and information science.\nThe project is hosted by the Center for Langugage and Cognition and the Center for Digital Humanities of the University of Groningen (Netherlands).\n\nMillions of stories are shared on online platforms such as Wattpad, AO3, and Fanfiction.net, combined with readers’ reactions and comments on these stories. The GOLEM project will analyze stories and their responses gathered from sites in five different languages – English, Spanish, Italian, Korean and Indonesian. This analysis can provide a wealth of information about the characters in a story, the genre, what a story is about, how a story is constructed, what themes are covered, as well as what readers from different countries and cultures find important in a story.\n\nWhat (linguistic, stylistic, thematic) elements in a story become popular in different languages?\nWhat makes a story get read, and what do readers value in a story?\n\nThe information we collect with this research makes it possible, with the help of computer models, to find answers to these kinds of questions. The goal is to test hypotheses about cultural evolution and develop a methodology that can also be applied to books from other periods in history. In this way, we can study the evolution of fiction over the centuries, and gain unprecedented insight into something as old as humanity itself: storytelling"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Cultural accumulation and improvement in online fan fiction\n\n\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinked-Potter: an example of ontology for the study of the evolution of literature and reading communities\n\n\nOntology of tags used by authors of Harry Potter fanfiction on AO3.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWattpad as a resource for literary studies. Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins\n\n\nWe presented an overview of the possibility offered by a digital social reading platform like Wattpad for the study of reader response.\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/linked_potter/index.html",
-    "href": "publications/linked_potter/index.html",
-    "title": "Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities",
-    "section": "",
-    "text": "Download"
-  },
-  {
-    "objectID": "publications/linked_potter/index.html#abstract",
-    "href": "publications/linked_potter/index.html#abstract",
-    "title": "Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities",
-    "section": "Abstract",
-    "text": "Abstract\nUsing user-generated tags extracted from fanfiction stories (Archive of Our Own), I created an ontology to categorise the various metadata used by authors. I also created a knowledge base by linking the ontology with all the 30,000 unique tags used in Harry Potter fanfiction stories.\nIn JADH2020 Proceedings of the 10th Conference of the Japanese Association of Digital Humanities “A New Decade in Digital Scholarship: Microcosms and Hubs”. Edited by Bor Hodošček. Osaka, Japan: Graduate School of Language and Culture, Osaka University. 28–32.\nData and code: https://github.com/fedormyskin/Linked-Potter"
-  },
-  {
     "objectID": "publications/first_wattpad/index.html",
     "href": "publications/first_wattpad/index.html",
     "title": "Wattpad as a resource for literary studies. Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins",
@@ -103,5 +75,47 @@
     "title": "Cultural accumulation and improvement in online fan fiction",
     "section": "Abstract",
     "text": "Abstract\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution. In particular, we focus on cumulative cultural evolution, that is, the idea that cultural systems improve with time, drawing on previous innovations. In this study we examine two features of cumulative culture: accumulation and improvement. First, we show that stories in Harry Potter’s fan fiction accumulate cultural traits—unique tags, in our analysis—through time, both globally and at the level of single stories. Second, more recent stories are also liked more by readers than earlier stories. Our research illustrates the potential of the combination of cultural evolution theory and digital literary studies, and it paves the way for the study of the effects of online digital media on cultural cumulation.\nIn CHR 2020: Workshop on Computational Humanities Research, November 18–20, 2020, Amsterdam, The Netherlands"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Cultural accumulation and improvement in online fan fiction\n\n\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinked-Potter: an example of ontology for the study of the evolution of literature and reading communities\n\n\nOntology of tags used by authors of Harry Potter fanfiction on AO3.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWattpad as a resource for literary studies. Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins\n\n\nWe presented an overview of the possibility offered by a digital social reading platform like Wattpad for the study of reader response.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/linked_potter/index.html",
+    "href": "publications/linked_potter/index.html",
+    "title": "Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities",
+    "section": "",
+    "text": "Download"
+  },
+  {
+    "objectID": "publications/linked_potter/index.html#abstract",
+    "href": "publications/linked_potter/index.html#abstract",
+    "title": "Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities",
+    "section": "Abstract",
+    "text": "Abstract\nUsing user-generated tags extracted from fanfiction stories (Archive of Our Own), I created an ontology to categorise the various metadata used by authors. I also created a knowledge base by linking the ontology with all the 30,000 unique tags used in Harry Potter fanfiction stories.\nIn JADH2020 Proceedings of the 10th Conference of the Japanese Association of Digital Humanities “A New Decade in Digital Scholarship: Microcosms and Hubs”. Edited by Bor Hodošček. Osaka, Japan: Graduate School of Language and Culture, Osaka University. 28–32.\nData and code: https://github.com/fedormyskin/Linked-Potter"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "GOLEM Lab",
+    "section": "",
+    "text": "The project\nThe “Graphs and Ontologies for Literary Evolution Models” is a 5-year (2023-2027) research project funded by the European Commission (ERC StG).\nThe goal of the project is to create accurate models of how the (formal and content-related) cultural traits of fiction spread and combine. The data used are fanfiction stories in 5 different languages (English, Spanish, Italian, Korean, and Indonesian) gathered from various online platforms.\nThe methodology combines mainly computational literary studies and cultural evolution theory, with influences from fan studies and information science.\nThe project is hosted by the Center for Langugage and Cognition and the Center for Digital Humanities of the University of Groningen (Netherlands)."
+  },
+  {
+    "objectID": "about/index.html#project-description",
+    "href": "about/index.html#project-description",
+    "title": "GOLEM Lab",
+    "section": "Project description",
+    "text": "Project description\nMillions of stories are shared on online platforms such as Wattpad, AO3, and Fanfiction.net, combined with readers’ reactions and comments on these stories. The GOLEM project will analyze stories and their responses gathered from sites in five different languages – English, Spanish, Italian, Korean and Indonesian. This analysis can provide a wealth of information about the characters in a story, the genre, what a story is about, how a story is constructed, what themes are covered, as well as what readers from different countries and cultures find important in a story.\n\nWhat (linguistic, stylistic, thematic) elements in a story become popular in different languages?\nWhat makes a story get read, and what do readers value in a story?\n\nThe information we collect with this research makes it possible, with the help of computer models, to find answers to these kinds of questions. The goal is to test hypotheses about cultural evolution and develop a methodology that can also be applied to books from other periods in history. In this way, we can study the evolution of fiction over the centuries, and gain unprecedented insight into something as old as humanity itself: storytelling"
+  },
+  {
+    "objectID": "about/index.html#methodology",
+    "href": "about/index.html#methodology",
+    "title": "GOLEM Lab",
+    "section": "Methodology",
+    "text": "Methodology\nThe goal of GOLEM is to model the evolution of fiction in the context of digitalized and datafied culture, the so-called “digital literary sphere”. We will pursue this goal combining tools from computational literary studies and cultural evolution research. The outcomes of the project will be:\n\na knowledge graph database with interlinked metadata about millions of stories (shared online between 2000 and 2021) and readers’ response to them;\nnew formal models (theoretical and computational) to study fiction and reader response;\nan evolutionary account of how fiction evolves in terms of formal features and its effect on readers.\n\nThe GOLEM workflow will consist of four work packages:\n\nWP1. Knowledge graph database: the organization, interlinking, and storage of metadata about stories (stylistic elements, themes, etc.) and reader response (emotions felt, etc.) into a knowledge graph.\nWP2. Metadata generation: the generation of new metadata about textual features and reader response through modelling and machine learning. These metadata will then enrich the graph database.\nWP3. Hypotheses testing: the testing of evolutionary hypotheses (H1–6) using the knowledge graph database to select predictors and target variables of statistical models, and to create evolutionary models.\nWP4. Cross-validation with readers: the empirical qualitative and quantitative cross-validation with readers of the results from previous WPs, also in controlled experiments.\n\n“Metadata” (or “derivative data”) are all the descriptive or evaluative attributes assigned to a story, by lay readers, experts, or machines. Hence, metadata encode information related to cultural traits as various as genre, style, sentiment, themes, ratings, readers’ emotional response, etc., which will be stored in a graph database (WP1) in the form of statements (triples) of the kind: story1, is_instance_of, genre_romance, comment9, is_response_to, story1, and empathy, is_expressed_in, comment9. Metadata are an essential part of the GOLEM methodology, since they will be used as parameters when modelling the effects of fiction and its evolution (WP3). Therefore, besides the metadata collected from various datasets, additional metadata will be generated (WP2), in manual or automated ways, from stories and comments/reviews. These additional metadata will belong to classes defined in an ontology (developed in WP1), and they will mainly concern five aspects: genre, story elements, topics, stylistic elements, engagement. Eventually, they will be included in the graph database and linked to the appropriate stories, enriching their schematic representation and offering more parameters to create statistical models and test evolutionary hypotheses (WP3).\nMetadata will be generated (WP2) for both textual features and reader response features, and used (WP1) for two purposes: (i) to identify new cultural traits that could be added as classes of the GOLEM ontology and better describe stories; (ii) to expand the GOLEM knowledge graph by linking the stories in the datasets to the classes of the ontology. Then the knowledge stored in the graph database will be used to test evolutionary hypotheses (WP3), verifying the quality of methodology and results thanks to regular assessments and experiments in controlled conditions (WP4).\n\n\n\nFigure1\n\n\nFigure 1. Diagram of the project overall workflow. I highlighted in orange the process of assessment of metadata quality, which is part of the risk management strategy. Blue arrows indicate the process through which the graph database is continuously enlarged and enriched.\nThe representation of a story in a graph database is different from its representation as a digital edition with textual encoding (e.g. using TEI-XML). In a digital edition, the text-as-an-object is the starting point and the TEI version is a machine-readable description of it. In a knowledge graph, there is no centre, it is a network of interlinked data. Or, if we consider the text of a story as “data”, then the knowledge graph is a network of metadata describing various aspects of the text. A graph is a model of the text, generated according to some predefined rules that record the textual information and transform it into statements (triples). As such, a graph is a model based on some interpretative rules, which are declared openly (and recorded in the database) and thus allow for a transparent reconstruction of the process that led to a certain interpretation. But GOLEM also adopts a broader perspective – following the tradition of reception theory – and considers a story not as an isolated system but rather as part of a system of which the reader is also part. The GOLEM knowledge graph will be an innovative way of modelling stories as part of a social system, in which readers are represented as interacting with stories and between them, talking about stories."
   }
 ]

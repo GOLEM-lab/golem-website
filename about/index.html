@@ -128,14 +128,43 @@ The project
 <p>The <strong>methodology</strong> combines mainly computational literary studies and cultural evolution theory, with influences from fan studies and information science.</p>
 <p>The project is <strong>hosted</strong> by the Center for Langugage and Cognition and the Center for Digital Humanities of the University of Groningen (Netherlands).</p>
 <hr>
+<section id="project-description" class="level2">
+<h2 data-anchor-id="project-description">Project description</h2>
 <p>Millions of stories are shared on online platforms such as Wattpad, AO3, and Fanfiction.net, combined with readers’ reactions and comments on these stories. The GOLEM project will analyze stories and their responses gathered from sites in five different languages – <strong>English, Spanish, Italian, Korean and Indonesian</strong>. This analysis can provide a wealth of information about the characters in a story, the genre, what a story is about, how a story is constructed, what themes are covered, as well as what readers from different countries and cultures find important in a story.</p>
 <ul>
 <li>What (linguistic, stylistic, thematic) elements in a story become popular in different languages?</li>
 <li>What makes a story get read, and what do readers value in a story?</li>
 </ul>
 <p>The information we collect with this research makes it possible, with the help of computer models, to find answers to these kinds of questions. The goal is to test hypotheses about cultural evolution and develop a methodology that can also be applied to books from other periods in history. In this way, we can study the evolution of fiction over the centuries, and gain unprecedented insight into something as old as humanity itself: storytelling</p>
+</section>
+<section id="methodology" class="level2">
+<h2 data-anchor-id="methodology">Methodology</h2>
+<p>The goal of GOLEM is to model the evolution of fiction in the context of digitalized and datafied culture, the so-called “digital literary sphere”. We will pursue this goal combining tools from computational literary studies and cultural evolution research. The outcomes of the project will be:</p>
+<ul>
+<li>a knowledge graph database with interlinked metadata about millions of stories (shared online between 2000 and 2021) and readers’ response to them;</li>
+<li>new formal models (theoretical and computational) to study fiction and reader response;</li>
+<li>an evolutionary account of how fiction evolves in terms of formal features and its effect on readers.</li>
+</ul>
+<p>The GOLEM workflow will consist of four <strong>work packages</strong>:</p>
+<ul>
+<li><strong>WP1. Knowledge graph database</strong>: the organization, interlinking, and storage of metadata about stories (stylistic elements, themes, etc.) and reader response (emotions felt, etc.) into a knowledge graph.</li>
+<li><strong>WP2. Metadata generation</strong>: the generation of new metadata about textual features and reader response through modelling and machine learning. These metadata will then enrich the graph database.</li>
+<li><strong>WP3. Hypotheses testing</strong>: the testing of evolutionary hypotheses (H1–6) using the knowledge graph database to select predictors and target variables of statistical models, and to create evolutionary models.</li>
+<li><strong>WP4. Cross-validation with readers</strong>: the empirical qualitative and quantitative cross-validation with readers of the results from previous WPs, also in controlled experiments.</li>
+</ul>
+<p>“Metadata” (or “derivative data”) are all the descriptive or evaluative attributes assigned to a story, by lay readers, experts, or machines. Hence, metadata encode information related to cultural traits as various as genre, style, sentiment, themes, ratings, readers’ emotional response, etc., which will be stored in a graph database (WP1) in the form of statements (triples) of the kind: <em>story1, is_instance_of, genre_romance</em>, <em>comment9, is_response_to, story1</em>, and <em>empathy, is_expressed_in, comment9</em>. Metadata are an essential part of the GOLEM methodology, since they will be used as parameters when modelling the effects of fiction and its evolution (WP3). Therefore, besides the metadata collected from various datasets, additional metadata will be generated (WP2), in manual or automated ways, from stories and comments/reviews. These additional metadata will belong to classes defined in an ontology (developed in WP1), and they will mainly concern five aspects: genre, story elements, topics, stylistic elements, engagement. Eventually, they will be included in the graph database and linked to the appropriate stories, enriching their schematic representation and offering more parameters to create statistical models and test evolutionary hypotheses (WP3).</p>
+<p>Metadata will be generated (WP2) for both textual features and reader response features, and used (WP1) for two purposes: (i) to identify new cultural traits that could be added as classes of the GOLEM ontology and better describe stories; (ii) to expand the GOLEM knowledge graph by linking the stories in the datasets to the classes of the ontology. Then the knowledge stored in the graph database will be used to test evolutionary hypotheses (WP3), verifying the quality of methodology and results thanks to regular assessments and experiments in controlled conditions (WP4).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../static/img/fig1.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure1</figcaption><p></p>
+</figure>
+</div>
+<p><em>Figure 1. Diagram of the project overall workflow. I highlighted in orange the process of assessment of metadata quality, which is part of the risk management strategy. Blue arrows indicate the process through which the graph database is continuously enlarged and enriched.</em></p>
+<p>The representation of a story in a graph database is different from its representation as a digital edition with textual encoding (e.g.&nbsp;using TEI-XML). In a digital edition, the text-as-an-object is the starting point and the TEI version is a machine-readable description of it. In a knowledge graph, there is no centre, it is a network of interlinked data. Or, if we consider the text of a story as “data”, then the knowledge graph is a network of metadata describing various aspects of the text. A graph is a model of the text, generated according to some predefined rules that record the textual information and transform it into statements (triples). As such, a graph is a model based on some interpretative rules, which are declared openly (and recorded in the database) and thus allow for a transparent reconstruction of the process that led to a certain interpretation. But GOLEM also adopts a broader perspective – following the tradition of reception theory – and considers a story not as an isolated system but rather as part of a system of which the reader is also part. The GOLEM knowledge graph will be an innovative way of modelling stories as part of a social system, in which readers are represented as interacting with stories and between them, talking about stories.</p>
 
 
+</section>
 </main></div>
 </div>
  <!-- /main -->
