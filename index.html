@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-publication .list');
+    const listingTargetEl = window.document.querySelector('#listing-publications .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -95,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-publication'] = new List('listing-publication', options);
+    window['quarto-listings']['listing-publications'] = new List('listing-publications', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -212,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="news">News</h2>
 <div id="listing-news" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="news" data-listing-date-sort="1670976000000" data-listing-file-modified-sort="1670979645763" data-listing-reading-time-sort="1.685">
+<div class="g-col-1" data-index="0" data-categories="news" data-listing-date-sort="1671062400000" data-listing-file-modified-sort="1671141799430" data-listing-reading-time-sort="1.685">
 <a href="./news/hiring/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -221,6 +221,34 @@ ul.task-list li input[type="checkbox"] {
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 We’re hiring!
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="events,news" data-listing-file-modified-sort="1671141799426" data-listing-reading-time-sort="0.375">
+<a href="./news/CREATE_20230126/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./news/CREATE_20230126/CREATE.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+First event (Amsterdam + online)
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="events,news" data-listing-file-modified-sort="1671141799426" data-listing-reading-time-sort="0.41">
+<a href="./news/JVMG_20230128/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./news/JVMG_20230128/JVMG.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Event in Stuttgart
 </h5>
 </div>
 </div>
@@ -244,66 +272,8 @@ No matching items
 </div><div class="column col-v-center" style="width:70%;">
 <section id="latest-publications" class="level2">
 <h2 data-anchor-id="latest-publications">Latest Publications</h2>
-<div id="listing-publication" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-publication-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-publication'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
+<div id="publication">
 
-<table class="quarto-listing-table table table-hover">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="cultural evolution,accumulation,improvement" data-listing-date-sort="1604188800000" data-listing-file-modified-sort="1670979645767" data-listing-reading-time-sort="0.735" data-listing-title-sort="Cultural accumulation and improvement in online fan fiction" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td class="listing-title">
-<a href="./publications/chr2020/index.html" class="title">Cultural accumulation and improvement in online fan fiction</a>
-</td>
-<td class="listing-date">
-Nov 1, 2020
-</td>
-</tr>
-<tr data-index="1" data-categories="ontology,linked data,AO3" data-listing-date-sort="1604188800000" data-listing-file-modified-sort="1670979645771" data-listing-reading-time-sort="0.45" data-listing-title-sort="Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td class="listing-title">
-<a href="./publications/linked_potter/index.html" class="title">Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities</a>
-</td>
-<td class="listing-date">
-Nov 1, 2020
-</td>
-</tr>
-</tbody>
-
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
 </div>
 <div class="all-link">
 <p><a href="publications/">all publications</a></p>
@@ -496,7 +466,67 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
+<div class="quarto-listing quarto-listing-container-table" id="listing-publications">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-publications-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-publications'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table table-hover">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="cultural evolution,accumulation,improvement" data-listing-date-sort="1604188800000" data-listing-file-modified-sort="1671141799430" data-listing-reading-time-sort="0.735" data-listing-title-sort="Cultural accumulation and improvement in online fan fiction" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td class="listing-title">
+<a href="./publications/chr2020/index.html" class="title">Cultural accumulation and improvement in online fan fiction</a>
+</td>
+<td class="listing-date">
+Nov 1, 2020
+</td>
+</tr>
+<tr data-index="1" data-categories="ontology,linked data,AO3" data-listing-date-sort="1604188800000" data-listing-file-modified-sort="1671141799434" data-listing-reading-time-sort="0.45" data-listing-title-sort="Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td class="listing-title">
+<a href="./publications/linked_potter/index.html" class="title">Linked-Potter: an example of ontology for the study of the evolution of literature and reading communities</a>
+</td>
+<td class="listing-date">
+Nov 1, 2020
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">CC-BY-SA 2022</div>   
