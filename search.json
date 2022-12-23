@@ -25,7 +25,14 @@
     "href": "news/hiring/index.html#phd-students",
     "title": "We’re hiring!",
     "section": "PhD students",
-    "text": "PhD students\n\n2 PhD positions in Digital Humanities and Natural Language Processing\nIn collaboration with the other team members, you will work on your own multilingual and cross-cultural research project. The project is very interdisciplinary, combining computational methods for the analysis of language and culture and psychometric experiments with readers. The focus will be on changes over a time span of 20 years in how people write (fanfiction) stories, in terms of themes, tropes, and style. In parallel, you will also look at how these changes influence the reception of stories. You will learn skills related to database management, linked data, data science, machine learning, and experimental design for reading research.\nThe universtiy of Groningen has very strong researchers working in Digital Humanities, Computational Linguistics, and Media Studies from which you can learn a lot.\nSee the official announcement for more information and to apply.\nWe also accept applications for externally funded PhD students. For example:\n\nfor Australians, the John Monash Scholarship\nfor Chinese, the China Scholarship Council (CSC)"
+    "text": "PhD students\n\n2 PhD positions in Digital Humanities and Natural Language Processing\nIn collaboration with the other team members, you will work on your own multilingual and cross-cultural research project. The project is very interdisciplinary, combining computational methods for the analysis of language and culture and psychometric experiments with readers. The focus will be on changes over a time span of 20 years in how people write (fanfiction) stories, in terms of themes, tropes, and style. In parallel, you will also look at how these changes influence the reception of stories. You will learn skills related to database management, linked data, data science, machine learning, and experimental design for reading research.\nThe universtiy of Groningen has very strong researchers working in Digital Humanities, Computational Linguistics, and Media Studies from which you can learn a lot.\nSee the official announcement for more information and to apply.\nWe also accept applications for externally funded PhD students and for internships. For example:\n\nfor Australians, the John Monash Scholarship\nfor Chinese, the China Scholarship Council (CSC)\n\nIf you’re interested in collaborating or learning more about GOLEM, please get in touch."
+  },
+  {
+    "objectID": "news/EVO_AESTH_20230213/index.html",
+    "href": "news/EVO_AESTH_20230213/index.html",
+    "title": "Evolutionary Aesthetics Seminar",
+    "section": "",
+    "text": "The seminar consists of four presentations and ends with a roundtable. The presentations concern both empirical and philosophical approaches to Evolutionary Aesthetics.\nDate: Monday, 13 February 2023\nTime: 10:00 – 13:45 CET\nLanguage: English\nChair: Onerva Kiianlinna | Doctoral Researcher, Doctoral Programme in Philosophy, Arts, and Society, University of Helsinki\nVirtual Location: Zoom Link\nRegistration: ask onerva.kiianlinna[at]helsinki.fi\nSchedule 10:00–10:05 Opening\n10:05–10:35 Onerva Kiianlinna: “Three waves of evolutionary aesthetics”\nThe term “Evolutionary Aesthetics” has a history of more than 100 years. During this time, the field has changed according to the general changes in evolutionary thinking. I will review the characteristics of what I call the three waves of Evolutionary Aesthetics in relation to their historical contexts as well as each other.\n10:35–11:05 Mikko Ijäs: “The cognitive research approach of prehistoric art”\nThe Finnish researcher Mikko Ijäs will give a presentation on cognitive research of prehistoric rock-art. The cognitive changes the hunters have described, such as transformation experiences into a hunted prey animal, could be attributed to some of the earliest imagery humans have ever made.\n11:05–11:35 Federico Pianzola: “Testing evolutionary hypotheses for fiction”\nMy hypothesis is that fiction is a cultural cognitive tool evolving towards forms that elicit stronger presence and narrative absorption. In other words, the fictional forms that survive are those able to elicit more intense embodied simulations. I will present how this hypothesis can be tested combining computational text analysis and empirical research with readers.\n11:35–12:05 Mariagrazia Portera: “(Non-human) animal aesthetics? Promises and challenges of a comparative research program in aesthetics”\nWithin the field of evolutionary aesthetics, there has been traditionally (apart from anecdotal reports) only limited research on comparative approaches to aesthetics, i.e. on the idea that non-human animals possess an aesthetic capacity more or less in the same way that human beings do. This was, however, Charles Darwin’s main assumption in his evolutionary theory. In this paper, I shall use the concept of “mosaic evolution” to describe human aesthetic capacity as a multifactorial trait whose simplest expressions might have preceded Homo sapiens; each of the factors involved in human aesthetic capacity might have evolved at different times in different species, due to different mechanisms (exaptation, adaptation, non-adaptive structural side effect) and according to different comparative relationships (structural, phylogenetic, genetic homology, convergence)."
   },
   {
     "objectID": "news/CREATE_20230126/index.html",
@@ -68,6 +75,48 @@
     "title": "GOLEM Lab",
     "section": "Methodology",
     "text": "Methodology\nThe goal of GOLEM is to model the evolution of fiction in the context of digitalized and datafied culture, the so-called “digital literary sphere”. We will pursue this goal combining tools from computational literary studies and cultural evolution research. The outcomes of the project will be:\n\na knowledge graph database with interlinked metadata about millions of stories (shared online between 2000 and 2021) and readers’ response to them;\nnew formal models (theoretical and computational) to study fiction and reader response;\nan evolutionary account of how fiction evolves in terms of formal features and its effect on readers.\n\nThe GOLEM workflow will consist of four work packages:\n\nWP1. Knowledge graph database: the organization, interlinking, and storage of metadata about stories (stylistic elements, themes, etc.) and reader response (emotions felt, etc.) into a knowledge graph.\nWP2. Metadata generation: the generation of new metadata about textual features and reader response through modelling and machine learning. These metadata will then enrich the graph database.\nWP3. Hypotheses testing: the testing of evolutionary hypotheses using the knowledge graph database to select predictors and target variables of statistical models, and to create evolutionary models.\nWP4. Cross-validation with readers: the empirical qualitative and quantitative cross-validation with readers of the results from previous WPs, also in controlled experiments.\n\n“Metadata” (or “derivative data”) are all the descriptive or evaluative attributes assigned to a story, by lay readers, experts, or machines. Hence, metadata encode information related to cultural traits as various as genre, style, sentiment, themes, ratings, readers’ emotional response, etc., which will be stored in a graph database (WP1) in the form of statements (triples) of the kind: story1, is_instance_of, genre_romance, comment9, is_response_to, story1, and empathy, is_expressed_in, comment9. Metadata are an essential part of the GOLEM methodology, since they will be used as parameters when modelling the effects of fiction and its evolution (WP3). Therefore, besides the metadata collected from various datasets, additional metadata will be generated (WP2), in manual or automated ways, from stories and comments/reviews. These additional metadata will belong to classes defined in an ontology (developed in WP1), and they will mainly concern five aspects: genre, story elements, topics, stylistic elements, engagement. Eventually, they will be included in the graph database and linked to the appropriate stories, enriching their schematic representation and offering more parameters to create statistical models and test evolutionary hypotheses (WP3).\nMetadata will be generated (WP2) for both textual features and reader response features, and used (WP1) for two purposes: (i) to identify new cultural traits that could be added as classes of the GOLEM ontology and better describe stories; (ii) to expand the GOLEM knowledge graph by linking the stories in the datasets to the classes of the ontology. Then the knowledge stored in the graph database will be used to test evolutionary hypotheses (WP3), verifying the quality of methodology and results thanks to regular assessments and experiments in controlled conditions (WP4).\n\n\n\nFigure1\n\n\nDiagram of the project overall workflow. I highlighted in orange the process of assessment of metadata quality, which is part of the risk management strategy. Blue arrows indicate the process through which the graph database is continuously enlarged and enriched.\nThe representation of a story in a graph database is different from its representation as a digital edition with textual encoding (e.g. using TEI-XML). In a digital edition, the text-as-an-object is the starting point and the TEI version is a machine-readable description of it. In a knowledge graph, there is no centre, it is a network of interlinked data. Or, if we consider the text of a story as “data”, then the knowledge graph is a network of metadata describing various aspects of the text. A graph is a model of the text, generated according to some predefined rules that record the textual information and transform it into statements (triples). As such, a graph is a model based on some interpretative rules, which are declared openly (and recorded in the database) and thus allow for a transparent reconstruction of the process that led to a certain interpretation. But GOLEM also adopts a broader perspective – following the tradition of reception theory – and considers a story not as an isolated system but rather as part of a system of which the reader is also part. The GOLEM knowledge graph will be an innovative way of modelling stories as part of a social system, in which readers are represented as interacting with stories and between them, talking about stories."
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "Federico Pianzola | University of Groningen"
+  },
+  {
+    "objectID": "team/index.html#associated-researchers",
+    "href": "team/index.html#associated-researchers",
+    "title": "Team",
+    "section": "Associated researchers",
+    "text": "Associated researchers\nTommaso Caselli | University of Groningen\nAndreas van Cranenburgh | University of Groningen\nSimone Rebora | University of Mainz"
+  },
+  {
+    "objectID": "team/index.html#postdoctoral-reaserchers",
+    "href": "team/index.html#postdoctoral-reaserchers",
+    "title": "Team",
+    "section": "Postdoctoral reaserchers",
+    "text": "Postdoctoral reaserchers\nWe’re hiring!"
+  },
+  {
+    "objectID": "team/index.html#phds",
+    "href": "team/index.html#phds",
+    "title": "Team",
+    "section": "PhDs",
+    "text": "PhDs\nWe’re hiring!"
+  },
+  {
+    "objectID": "team/index.html#other-members",
+    "href": "team/index.html#other-members",
+    "title": "Team",
+    "section": "Other members",
+    "text": "Other members\nWe’re hiring!"
+  },
+  {
+    "objectID": "team/index.html#scientific-advisors",
+    "href": "team/index.html#scientific-advisors",
+    "title": "Team",
+    "section": "Scientific Advisors",
+    "text": "Scientific Advisors\nComing soon"
   },
   {
     "objectID": "publications/linked_potter/index.html",
@@ -123,7 +172,7 @@
     "href": "index.html#news",
     "title": "GOLEM Lab",
     "section": "News",
-    "text": "News\n\n\n\n\n\n\n\n\n\n\nWe’re hiring!\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst event (Amsterdam + online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n\n\n\n\n\nNo matching items\n\n\n\nALL NEWS"
+    "text": "News\n\n\n\n\n\n\n\n\n\n\nWe’re hiring!\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst event (Amsterdam + online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvolutionary Aesthetics Seminar\n\n\n\n\n\n\n\nNo matching items\n\n\n\nALL NEWS"
   },
   {
     "objectID": "index.html#latest-publications",

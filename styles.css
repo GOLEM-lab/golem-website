@@ -121,7 +121,7 @@ h1.f3{
 
 
 .navbar-brand>img {
-    max-height: 62px;
+    max-height: 43px;
     width: auto;
     padding-right: 6px;
 }
@@ -149,9 +149,21 @@ h1.f3{
 
 footer.footer .nav-footer, #quarto-header nav {
     padding-left: 1em;
+    padding-right: 0em;
+    padding-bottom: 1em;
+}
+
+.nav-footer-left .footer-items .nav-link, .nav-footer-center .footer-items .nav-link, .nav-footer-right .footer-items .nav-link {
+    padding-right: 0.1em;
+    font-size: 1.2em;
+}
+
+footer.footer .nav-footer, #quarto-header nav {
+    padding-left: 1em;
     padding-right: 1em;
     padding-bottom: 1em;
 }
+
 
 /*buttons*/
 
@@ -292,7 +304,6 @@ opacity: 50%;
 
 .vspace {
      margin-bottom: 1cm;
-     padding: 1%;
   }
   
  .vspace2 {
