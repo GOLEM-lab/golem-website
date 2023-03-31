@@ -179,7 +179,14 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "First event (Amsterdam + online)\n\n\n26 Jan. First presentation of the project at the CREATE Salon at the University of Amsterdam (+ online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n27 Jan. Second presentation of the project at Stuttgart Media University\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvolutionary Aesthetics Seminar\n\n\nPresentation at the seminar \"Evolutionary Aesthetics as a Scholarly Discipline\" (online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborate with us!\n\n\nThe GOLEM project is open to new PhD students, internships, and other collaborations.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOTW Guest Post\n\n\nInterview posted on the blog of the Organization for Transformative Works\n\n\n\n\n\n\n\nNo matching items"
+    "text": "CLS-INFRA fellowship\n\n\nCollaboration with the Dracor project (Univ. Potsdam) to design GOLEM as programmable corpora.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst event (Amsterdam + online)\n\n\n26 Jan. First presentation of the project at the CREATE Salon at the University of Amsterdam (+ online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n27 Jan. Second presentation of the project at Stuttgart Media University\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvolutionary Aesthetics Seminar\n\n\nPresentation at the seminar \"Evolutionary Aesthetics as a Scholarly Discipline\" (online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborate with us!\n\n\nThe GOLEM project is open to new PhD students, internships, and other collaborations.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOTW Guest Post\n\n\nInterview posted on the blog of the Organization for Transformative Works\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/dracor_20230327/index.html",
+    "href": "news/dracor_20230327/index.html",
+    "title": "CLS-INFRA fellowship",
+    "section": "",
+    "text": "I’ll be spending one month at the University of Potsdam thanks to a CLS-INFRA fellowship. I will collaborate with the Dracor team to align the construction of the GOLEM with the concept of “programmable corpora”.\nI started following the Dracor project in 2019 and it’s exciting to see more closely their outstanding achievements and technology. The GOLEM will adapt Dracor’s frontend and API to allow easy access to the metadata and extracted features of all the stories in the database."
   },
   {
     "objectID": "team/index.html",
