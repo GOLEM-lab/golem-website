@@ -17,7 +17,7 @@ h1,h2,h3,h4{
 .listing-title{
   color: #63615a;
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1em;
   font-family: 'Rubik';
 }
 
@@ -50,19 +50,19 @@ a.btn-links:hover{
 }
 
 .habout{
-  font-size: 2em;
+  font-size: 1.75em;
   font-family: 'Rubik';
   font-weight: 200;
 }
 
 h1{
   font-weight: 200;
-  font-size: 3em;
+  font-size: 2em;
 }
 
 h2{
   font-weight: 200;
-  font-size: 2em;
+  font-size: 1.75em;
 }
 
 h3{
@@ -71,7 +71,7 @@ h3{
 }
 
 h4.f4{
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 h1.f3{
@@ -155,7 +155,7 @@ footer.footer .nav-footer, #quarto-header nav {
 
 .nav-footer-left .footer-items .nav-link, .nav-footer-center .footer-items .nav-link, .nav-footer-right .footer-items .nav-link {
     padding-right: 0.1em;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 footer.footer .nav-footer, #quarto-header nav {
@@ -280,7 +280,7 @@ div.quarto-post {
 }
 
 .home-title{
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 /* icons */
