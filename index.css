@@ -10,19 +10,19 @@ h2 {
 }
 
 body {
-font-family: 'IBM Plex Sans';
+font-family: 'Rubik';
 color: #63615a;
 }
 
 .termeh-intro{
   margin-top: -30px;
-  font-family: 'IBM Plex Sans';
+  font-family: 'Rubik';
   font-size: 1.3em;
 }
 
 .news-header{
   font-size: 3em;
-  font-family: 'Teko';
+  font-family: 'Rubik';
   padding: 10px 0px;
   color: #99978d;
 }
@@ -134,7 +134,7 @@ rect.ContributionCalendar-day[data-level='4'] {
 .calendar {
     width: 100%;
     background-color: white;
-    font-family: 'IBM Plex Sans';
+    font-family: 'Rubik';
     border: 1px solid #DDDDDD;
     border-radius: 3px;
     min-height: 243px;
