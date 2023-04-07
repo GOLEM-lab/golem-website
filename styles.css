@@ -10,13 +10,19 @@ body {
 }
 
 h1{
-  font-family: 'Bandal';
+  font-family: 'Rubik';
 }
 
 h2,h3,h4{
   font-family: 'Rubik';
 }
 
+.h0{
+  font-family: 'Bandal';
+  font-weight: 200;
+  font-size: 4em;
+  color: #63615a;
+}
 
 .listing-title{
   color: #63615a;
