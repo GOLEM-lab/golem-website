@@ -8,8 +8,12 @@ body {
     background-color: white;
     font-size: 0.875em;
 }
-    
-h1,h2,h3,h4{
+
+h1{
+  font-family: 'Rubik';
+}
+
+h2,h3,h4{
   font-family: 'Rubik';
 }
 
