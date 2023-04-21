@@ -7,7 +7,7 @@
       "/news/CREATE_20230126/index.html",
       "/news/JVMG_20230128/index.html",
       "/news/OTW_20221220/index.html",
-      "/news/EVO_AESTH_20230213/index.html",
+      "/news/why_golem/index.html",
       "/publications/OER_theory/index.html",
       "/publications/chr2020/index.html",
       "/publications/linked_potter/index.html",
@@ -18,6 +18,7 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/why_golem/index.html",
       "/news/dracor_20230327/index.html",
       "/news/CREATE_20230126/index.html",
       "/news/JVMG_20230128/index.html",
