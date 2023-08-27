@@ -1,124 +1,5 @@
 [
   {
-    "objectID": "publications/first_wattpad/index.html",
-    "href": "publications/first_wattpad/index.html",
-    "title": "Wattpad as a resource for literary studies",
-    "section": "",
-    "text": "Download"
-  },
-  {
-    "objectID": "publications/first_wattpad/index.html#abstract",
-    "href": "publications/first_wattpad/index.html#abstract",
-    "title": "Wattpad as a resource for literary studies",
-    "section": "Abstract",
-    "text": "Abstract\nThe end of deep reading is a commonplace in public debates, whenever societies talk about youth, books, and the digital age. In contrast to this, we show for the first time and in detail, how intensively young readers write and comment literary texts at an unprecedented scale. We present several analyses of how fiction is transmitted through the social reading platform Wattpad, one of the largest platforms for user-generated stories, including novels, fanfiction, humour, classics, and poetry. By mixed quantitative and qualitative methods and scalable reading we scrutinise texts and comments on Wattpad, what themes are preferred in 13 languages, what role does genre play for readers behaviour, and what kind of emotional engagement is prevalent when young readers share stories. Our results point out the rise of a global reading culture in youth reading besides national preferences for certain topics and genres, patterns of reading engagement, aesthetic values and social interaction. When reading Teen Fiction social-bonding (affective interaction) is prevalent, when reading Classics social-cognitive interaction (collective intelligence) is prevalent. An educational outcome suggests that readers who engage in Teen Fiction learn to read Classics and to judge books not only indirect emotional response toc haracter’s behaviour, but focusing more on contextualised interpretation of the text.\nPianzola, F., Rebora, S., & Lauer, G. (2020). Wattpad as a resource for literary studies. Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins. PLoS ONE, 15(1). https://doi.org/10.1371/journal.pone.0226708\nData and code: https://osf.io/5gxmn/"
-  },
-  {
-    "objectID": "publications/OER_theory/index.html",
-    "href": "publications/OER_theory/index.html",
-    "title": "Presence, flow, and narrative absorption",
-    "section": "",
-    "text": "Download"
-  },
-  {
-    "objectID": "publications/OER_theory/index.html#relevance-for-the-golem-project",
-    "href": "publications/OER_theory/index.html#relevance-for-the-golem-project",
-    "title": "Presence, flow, and narrative absorption",
-    "section": "Relevance for the GOLEM project",
-    "text": "Relevance for the GOLEM project\nThis article provides the theoretical fundation for the extraction of reader response information from stories, as well as for the design of experiments with readers in the second part of the project."
-  },
-  {
-    "objectID": "publications/OER_theory/index.html#abstract",
-    "href": "publications/OER_theory/index.html#abstract",
-    "title": "Presence, flow, and narrative absorption",
-    "section": "Abstract",
-    "text": "Abstract\nPresence, flow, narrative absorption, immersion, transportation, and similar subjective phenomena are studied in many different disciplines, mostly in relation to mediated experiences (books, film, VR, games). Moreover, since real, virtual, or fictional agents are often involved, concepts like identification and state empathy are often linked to engaging media use. Based on a scoping review that identified similarities in the wording of various questionnaire items conceived to measure different phenomena, we categorize items into the most relevant psychological aspects and use this categorization to propose an interdisciplinary systematization. Then, based on a framework of embodied predictive processing, we present a new cognitive model of presence-related phenomena for mediated and non-mediated experiences, integrating spatial and temporal aspects and also considering the role of fiction and media design. Key processes described within the model are: selective attention, enactment of intentions, and interoception. We claim that presence is the state of perceived successful agency of an embodied mind able to correctly enact its predictions. The difference between real-life and simulated experiences (“book problem,” “paradox of fiction”) lays in the different precision weighting of exteroceptive and interoceptive signals.\nPianzola, F., Riva, G., Kukkonen, K., & Mantovani, F. (2021). Presence, flow, and narrative absorption: An interdisciplinary theoretical exploration with a new spatiotemporal integrated model based on predictive processing. Open Research Europe, 1(28), 1–37. https://doi.org/10.12688/openreseurope.13193.2\nSupplementary material: https://open-research-europe.ec.europa.eu/articles/1-11"
-  },
-  {
-    "objectID": "publications/linked_potter/index.html",
-    "href": "publications/linked_potter/index.html",
-    "title": "Linked-Potter",
-    "section": "",
-    "text": "Download"
-  },
-  {
-    "objectID": "publications/linked_potter/index.html#abstract",
-    "href": "publications/linked_potter/index.html#abstract",
-    "title": "Linked-Potter",
-    "section": "Abstract",
-    "text": "Abstract\nUsing user-generated tags extracted from fanfiction stories (Archive of Our Own), I created an ontology to categorise the various metadata used by authors. I also created a knowledge base by linking the ontology with all the 30,000 unique tags used in Harry Potter fanfiction stories.\nPianzola, F. (2020). Linked-Potter: An example of ontology for the study of the evolution of literature and reading communities. In B. Hodošček (Ed.), JADH2020 Proceedings of the 10th Conference of the Japanese Association of Digital Humanities “A New Decade in Digital Scholarship: Microcosms and Hubs” (pp. 28–32). Graduate School of Language and Culture, Osaka University. https://jadh2020.lang.osaka-u.ac.jp/programme/longpaper/pianzola-linked.html\nData and code: https://github.com/fedormyskin/Linked-Potter"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Golem Lab",
-    "section": "",
-    "text": "The project\nThe “Graphs and Ontologies for Literary Evolution Models” is a 5-year (2023-2027) research project funded by the European Commission (ERC StG).\nThe goal of the project is to create accurate models of how the (formal and content-related) cultural traits of fiction spread and combine. The data used are (fan)fiction stories in 5 different languages (English, Spanish, Italian, Korean, and Indonesian) gathered from various online platforms.\nThe methodology mainly combines computational literary studies and cultural evolution theory, with influences from fan studies and information science.\nThe project is hosted by the University of Groningen (Netherlands), with the support of the Center for Language and Cognition, the Center for Digital Humanities, and the Jantina Tammes School of Digital Society, Technology and AI."
-  },
-  {
-    "objectID": "about/index.html#project-description",
-    "href": "about/index.html#project-description",
-    "title": "Golem Lab",
-    "section": "Project description",
-    "text": "Project description\nMillions of stories are shared on online platforms such as Wattpad, AO3, and Fanfiction.net, combined with readers’ reactions and comments on these stories. The GOLEM project will analyze stories and their responses gathered from sites in five different languages – English, Spanish, Italian, Korean and Indonesian. This analysis can provide a wealth of information about the characters in a story, the genre, what a story is about, how a story is constructed, what themes are covered, as well as what readers from different countries and cultures find important in a story.\n\nWhat (linguistic, stylistic, thematic) elements in a story become popular in different languages?\nWhat makes a story get read, and what do readers value in a story?\n\nThe information we collect with this research makes it possible, with the help of computer models, to find answers to these kinds of questions. The goal is to test hypotheses about cultural evolution and develop a methodology that can also be applied to books from other periods in history. In this way, we can study the evolution of fiction over the centuries, and gain unprecedented insight into something as old as humanity itself: storytelling"
-  },
-  {
-    "objectID": "about/index.html#methodology",
-    "href": "about/index.html#methodology",
-    "title": "Golem Lab",
-    "section": "Methodology",
-    "text": "Methodology\nThe goal of GOLEM is to model the evolution of fiction in the context of digitalized and datafied culture, the so-called “digital literary sphere”. We will pursue this goal combining tools from computational literary studies and cultural evolution research. The outcomes of the project will be:\n\na knowledge graph database with interlinked metadata about millions of stories (shared online between 2000 and 2021) and readers’ response to them;\nnew formal models (theoretical and computational) to study fiction and reader response;\nan evolutionary account of how fiction evolves in terms of formal features and its effect on readers.\n\nThe GOLEM workflow will consist of four work packages:\n\nWP1. Knowledge graph database: the organization, interlinking, and storage of metadata about stories (stylistic elements, themes, etc.) and reader response (emotions felt, etc.) into a knowledge graph.\nWP2. Metadata generation: the generation of new metadata about textual features and reader response through modelling and machine learning. These metadata will then enrich the graph database.\nWP3. Hypotheses testing: the testing of evolutionary hypotheses using the knowledge graph database to select predictors and target variables of statistical models, and to create evolutionary models.\nWP4. Cross-validation with readers: the empirical qualitative and quantitative cross-validation with readers of the results from previous WPs, also in controlled experiments.\n\n“Metadata” (or “derivative data”) are all the descriptive or evaluative attributes assigned to a story, by lay readers, experts, or machines. Hence, metadata encode information related to cultural traits as various as genre, style, sentiment, themes, ratings, readers’ emotional response, etc., which will be stored in a graph database (WP1) in the form of statements (triples) of the kind: story1, is_instance_of, genre_romance, comment9, is_response_to, story1, and empathy, is_expressed_in, comment9. Metadata are an essential part of the GOLEM methodology, since they will be used as parameters when modelling the effects of fiction and its evolution (WP3). Therefore, besides the metadata collected from various datasets, additional metadata will be generated (WP2), in manual or automated ways, from stories and comments/reviews. These additional metadata will belong to classes defined in an ontology (developed in WP1), and they will mainly concern five aspects: genre, story elements, topics, stylistic elements, engagement. Eventually, they will be included in the graph database and linked to the appropriate stories, enriching their schematic representation and offering more parameters to create statistical models and test evolutionary hypotheses (WP3).\nMetadata will be generated (WP2) for both textual features and reader response features, and used (WP1) for two purposes: (i) to identify new cultural traits that could be added as classes of the GOLEM ontology and better describe stories; (ii) to expand the GOLEM knowledge graph by linking the stories in the datasets to the classes of the ontology. Then the knowledge stored in the graph database will be used to test evolutionary hypotheses (WP3), verifying the quality of methodology and results thanks to regular assessments and experiments in controlled conditions (WP4).\n\n\n\nFigure1\n\n\nDiagram of the project overall workflow. I highlighted in orange the process of assessment of metadata quality, which is part of the risk management strategy. Blue arrows indicate the process through which the graph database is continuously enlarged and enriched.\nThe representation of a story in a graph database is different from its representation as a digital edition with textual encoding (e.g. using TEI-XML). In a digital edition, the text-as-an-object is the starting point and the TEI version is a machine-readable description of it. In a knowledge graph, there is no centre, it is a network of interlinked data. Or, if we consider the text of a story as “data”, then the knowledge graph is a network of metadata describing various aspects of the text. A graph is a model of the text, generated according to some predefined rules that record the textual information and transform it into statements (triples). As such, a graph is a model based on some interpretative rules, which are declared openly (and recorded in the database) and thus allow for a transparent reconstruction of the process that led to a certain interpretation. But GOLEM also adopts a broader perspective – following the tradition of reception theory – and considers a story not as an isolated system but rather as part of a system of which the reader is also part. The GOLEM knowledge graph will be an innovative way of modelling stories as part of a social system, in which readers are represented as interacting with stories and between them, talking about stories.\n\nSimilar projects:\n\nDraCor\nMiMoText\nDigital Observatory of World Literature\nJapanese Visual Media Graph (JVMG)\nThe Under-Represented Writers Project\nTheme Ontology"
-  },
-  {
-    "objectID": "news/EVO_AESTH_20230213/index.html",
-    "href": "news/EVO_AESTH_20230213/index.html",
-    "title": "Evolutionary Aesthetics Seminar",
-    "section": "",
-    "text": "The seminar consists of four presentations and ends with a roundtable. The presentations concern both empirical and philosophical approaches to Evolutionary Aesthetics.\nDate: Monday, 13 February 2023\nTime: 10:00 – 13:45 CET\nLanguage: English\nChair: Onerva Kiianlinna | Doctoral Researcher, Doctoral Programme in Philosophy, Arts, and Society, University of Helsinki\nVirtual Location: Zoom Link\nRegistration: ask onerva.kiianlinna[at]helsinki.fi\nSchedule 10:00–10:05 Opening\n10:05–10:35 Onerva Kiianlinna: “Three waves of evolutionary aesthetics”\nThe term “Evolutionary Aesthetics” has a history of more than 100 years. During this time, the field has changed according to the general changes in evolutionary thinking. I will review the characteristics of what I call the three waves of Evolutionary Aesthetics in relation to their historical contexts as well as each other.\n10:35–11:05 Mikko Ijäs: “The cognitive research approach of prehistoric art”\nThe Finnish researcher Mikko Ijäs will give a presentation on cognitive research of prehistoric rock-art. The cognitive changes the hunters have described, such as transformation experiences into a hunted prey animal, could be attributed to some of the earliest imagery humans have ever made.\n11:05–11:35 Federico Pianzola: “Testing evolutionary hypotheses for fiction”\nMy hypothesis is that fiction is a cultural cognitive tool evolving towards forms that elicit stronger presence and narrative absorption. In other words, the fictional forms that survive are those able to elicit more intense embodied simulations. I will present how this hypothesis can be tested combining computational text analysis and empirical research with readers.\n11:35–12:05 Mariagrazia Portera: “(Non-human) animal aesthetics? Promises and challenges of a comparative research program in aesthetics”\nWithin the field of evolutionary aesthetics, there has been traditionally (apart from anecdotal reports) only limited research on comparative approaches to aesthetics, i.e. on the idea that non-human animals possess an aesthetic capacity more or less in the same way that human beings do. This was, however, Charles Darwin’s main assumption in his evolutionary theory. In this paper, I shall use the concept of “mosaic evolution” to describe human aesthetic capacity as a multifactorial trait whose simplest expressions might have preceded Homo sapiens; each of the factors involved in human aesthetic capacity might have evolved at different times in different species, due to different mechanisms (exaptation, adaptation, non-adaptive structural side effect) and according to different comparative relationships (structural, phylogenetic, genetic homology, convergence)."
-  },
-  {
-    "objectID": "news/OTW_20221220/index.html",
-    "href": "news/OTW_20221220/index.html",
-    "title": "OTW Guest Post",
-    "section": "",
-    "text": "Every month the Organization for Transformative Works (OTW) hosts guest posts on their OTW News accounts to provide an outside perspective on the OTW or aspects of fandom.\nRead my interview."
-  },
-  {
-    "objectID": "news/dracor_20230327/index.html",
-    "href": "news/dracor_20230327/index.html",
-    "title": "CLS-INFRA fellowship",
-    "section": "",
-    "text": "I’ll be spending one month at the University of Potsdam thanks to a CLS-INFRA fellowship. I will collaborate with the Dracor team to align the construction of the GOLEM with the concept of “programmable corpora”.\nI started following the Dracor project in 2019 and it’s exciting to see more closely their outstanding achievements and technology. The GOLEM will adapt Dracor’s frontend and API to allow easy access to the metadata and extracted features of all the stories in the database."
-  },
-  {
-    "objectID": "news/JVMG_20230128/index.html",
-    "href": "news/JVMG_20230128/index.html",
-    "title": "Event in Stuttgart",
-    "section": "",
-    "text": "On 27-28 January, I’ll be presenting the GOLEM project at a workshop organized by the Japanese Visual Media Graph project at at Stuttgart Media University. Thanks to Magnus Pfeffer, Martin Roth, and Zoltan Kacsuk for the invitation.\nThis is a very meaningful occasion because I started following the JVMG project in 2020 and I’m happy to see that the project will have e second phase in whch there will be a collaboration with GOLEM. More details about this will follow in due time."
-  },
-  {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
-    "section": "",
-    "text": "Ontologies for Narrative and Fiction (online workshop)\n\n\n3-4 July 2023. Workshop about Ontologies for Narrative and Fiction.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is a Golem?\n\n\nA few thoughts about what a golem is\n\n\n\n\n\n\n\n\n\n\n\n\n\nCLS-INFRA fellowship\n\n\nCollaboration with the Dracor project (Univ. Potsdam) to design GOLEM as programmable corpora.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst event (Amsterdam + online)\n\n\n26 Jan. First presentation of the project at the CREATE Salon at the University of Amsterdam (+ online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n27 Jan. Second presentation of the project at Stuttgart Media University\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvolutionary Aesthetics Seminar\n\n\nPresentation at the seminar \"Evolutionary Aesthetics as a Scholarly Discipline\" (online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborate with us!\n\n\nThe GOLEM project is open to new PhD students, internships, and other collaborations.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOTW Guest Post\n\n\nInterview posted on the blog of the Organization for Transformative Works\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "GOLEM Lab",
-    "section": "News",
-    "text": "News\n\n\n\n\n\n\n\n\n\n\nCollaborate with us!\n\n\n\n\n\n\n\n\n\n\n\n\n\nCLS-INFRA fellowship\n\n\n\n\n\n\n\n\n\n\n\n\n\nOntologies for Narrative and Fiction (online workshop)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n\n\n\n\n\n\n\n\n\n\n\nOTW Guest Post\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is a Golem?\n\n\n\n\n\n\n\nNo matching items\n\n\n\nALL NEWS"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "GOLEM Lab",
-    "section": "Publications",
-    "text": "Publications\n\n\n\n\nall publications"
-  },
-  {
     "objectID": "team/index.html",
     "href": "team/index.html",
     "title": "Team",
@@ -144,14 +25,14 @@
     "href": "team/index.html#postdoctoral-reaserchers",
     "title": "Team",
     "section": "Postdoctoral reaserchers",
-    "text": "Postdoctoral reaserchers\nMounika Marreddy (University of Groningen)"
+    "text": "Postdoctoral reaserchers\nPosition opening soon"
   },
   {
     "objectID": "team/index.html#phds",
     "href": "team/index.html#phds",
     "title": "Team",
     "section": "PhDs",
-    "text": "PhDs\nNoa Visser (University of Groningen)\nXiaoyan Yang (University of Groningen)\nAnd we’re open!"
+    "text": "PhDs\nNoa Visser Solissa (University of Groningen)\nXiaoyan Yang (University of Groningen)\nZe Yu (University of Groningen)\nAnd we’re open!"
   },
   {
     "objectID": "team/index.html#other-contributors",
@@ -168,6 +49,62 @@
     "text": "Scientific Advisors\nAlberto Acerbi (University of Trento)\nEvelyn Gius (Technical University Darmstadt)\nFolgert Karsdorp (KNAW Meertens Institute)\nNina Tahmasebi (University of Gothenburg)\nJamie Tehrani (Durham University)"
   },
   {
+    "objectID": "publications/OER_theory/index.html",
+    "href": "publications/OER_theory/index.html",
+    "title": "Presence, flow, and narrative absorption",
+    "section": "",
+    "text": "Download"
+  },
+  {
+    "objectID": "publications/OER_theory/index.html#relevance-for-the-golem-project",
+    "href": "publications/OER_theory/index.html#relevance-for-the-golem-project",
+    "title": "Presence, flow, and narrative absorption",
+    "section": "Relevance for the GOLEM project",
+    "text": "Relevance for the GOLEM project\nThis article provides the theoretical fundation for the extraction of reader response information from stories, as well as for the design of experiments with readers in the second part of the project."
+  },
+  {
+    "objectID": "publications/OER_theory/index.html#abstract",
+    "href": "publications/OER_theory/index.html#abstract",
+    "title": "Presence, flow, and narrative absorption",
+    "section": "Abstract",
+    "text": "Abstract\nPresence, flow, narrative absorption, immersion, transportation, and similar subjective phenomena are studied in many different disciplines, mostly in relation to mediated experiences (books, film, VR, games). Moreover, since real, virtual, or fictional agents are often involved, concepts like identification and state empathy are often linked to engaging media use. Based on a scoping review that identified similarities in the wording of various questionnaire items conceived to measure different phenomena, we categorize items into the most relevant psychological aspects and use this categorization to propose an interdisciplinary systematization. Then, based on a framework of embodied predictive processing, we present a new cognitive model of presence-related phenomena for mediated and non-mediated experiences, integrating spatial and temporal aspects and also considering the role of fiction and media design. Key processes described within the model are: selective attention, enactment of intentions, and interoception. We claim that presence is the state of perceived successful agency of an embodied mind able to correctly enact its predictions. The difference between real-life and simulated experiences (“book problem,” “paradox of fiction”) lays in the different precision weighting of exteroceptive and interoceptive signals.\nPianzola, F., Riva, G., Kukkonen, K., & Mantovani, F. (2021). Presence, flow, and narrative absorption: An interdisciplinary theoretical exploration with a new spatiotemporal integrated model based on predictive processing. Open Research Europe, 1(28), 1–37. https://doi.org/10.12688/openreseurope.13193.2\nSupplementary material: https://open-research-europe.ec.europa.eu/articles/1-11"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Presence, flow, and narrative absorption\n\n\nWe presented a theoretical model clarifying the differences between various terms used in empirical research about users’ cognitive and affective engagement with various…\n\n\n\n2021-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural accumulation and improvement in online fan fiction\n\n\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinked-Potter\n\n\nOntology of tags used by authors of Harry Potter fanfiction on AO3.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWattpad as a resource for literary studies\n\n\nWe presented an overview of the possibility offered by a digital social reading platform like Wattpad for the study of reader response.\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNarrative as a Complex System\n\n\nNarrative is seen and used in many different ways that can be conceived as systems, i.e. considering that the properties of narrative cannot be studied in isolation but are…\n\n\n\n2018-01-01\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/chr2020/index.html",
+    "href": "publications/chr2020/index.html",
+    "title": "Cultural accumulation and improvement in online fan fiction",
+    "section": "",
+    "text": "Download"
+  },
+  {
+    "objectID": "publications/chr2020/index.html#abstract",
+    "href": "publications/chr2020/index.html#abstract",
+    "title": "Cultural accumulation and improvement in online fan fiction",
+    "section": "Abstract",
+    "text": "Abstract\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution. In particular, we focus on cumulative cultural evolution, that is, the idea that cultural systems improve with time, drawing on previous innovations. In this study we examine two features of cumulative culture: accumulation and improvement. First, we show that stories in Harry Potter’s fan fiction accumulate cultural traits—unique tags, in our analysis—through time, both globally and at the level of single stories. Second, more recent stories are also liked more by readers than earlier stories. Our research illustrates the potential of the combination of cultural evolution theory and digital literary studies, and it paves the way for the study of the effects of online digital media on cultural cumulation.\nIn CHR 2020: Workshop on Computational Humanities Research, November 18–20, 2020, Amsterdam, The Netherlands"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "GOLEM Lab",
+    "section": "News",
+    "text": "News\n\n\n\n\n\n\n\n\n\n\nCollaborate with us!\n\n\n\n\n\n\n\n\n\n\n\n\n\nCLS-INFRA fellowship\n\n\n\n\n\n\n\n\n\n\n\n\n\nOntologies for Narrative and Fiction (online workshop)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n\n\n\n\n\n\n\n\n\n\n\nOTW Guest Post\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is a Golem?\n\n\n\n\n\n\n\nNo matching items\n\n\n\nALL NEWS"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "GOLEM Lab",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\nall publications"
+  },
+  {
     "objectID": "news/ontology-workshop/index.html",
     "href": "news/ontology-workshop/index.html",
     "title": "Ontologies for Narrative and Fiction (online workshop)",
@@ -175,11 +112,53 @@
     "text": "The first official event of the GOLEM project will be about discussing ontologies for narrative and fiction.\nDate: 3-4 July 2023\nTime: 09:00 – 17:00 CET\nLanguage: English\nProgram\n3 July\n9:00-9:45 Janna Hastings, “How can fiction change the world? Towards an ontology of literary characters and their interactions” (slides)\n9:45-10:30 Paul Sheridan, “Toward creating a collection of literary themes for use in supervised learning applications” (slides)\n15 min break\n10:45-11:30 Christof Schöch and Maria Hinzmann, “Towards an ontology for literary history: issues of complexity and scale when constructing the MiMoTextBase” (slides)\n11:30-12:15 Ingo Börner, “Modeling Drama Corpora in CIDOC-CRM” (slides)\nlunch\n13:30-14:15 Valentina Pasqual, “An ontology for compositional structures, plot concepts and character roles. Case study on the ‘macchina combinatoria’ in ‘Il castello dei destini incrociati’ by Italo Calvino” (slides)\n14:15-15:00 Marco Stranisci, “The World Literature Knowledge Graph: a resource for studying the underrepresentation of non-Western people” (slides)\n15 min break\n15:15-16:00 Ines Blin, “Leveraging structured representations for narratives” (slides)\n16-16:45 Magnus Pfeffer and Zoltán Kacsuk, “Creating a unified ontology for the Japanese Visual Media Graph” (slides)\n4 July\n09:00-9:45 Federico Pianzola and Xiaoyan Yang, “First steps of the GOLEM ontology for narrative and fiction” (slides)\n09:45-10:30 Luca Scotti, “Alignment and harmonisation: Mapping ontologies for narrative and fiction” (slides)\n15 min break\n10:45-12:00 hands-on session: open issues in the modelling of narrative and fiction"
   },
   {
+    "objectID": "news/OTW_20221220/index.html",
+    "href": "news/OTW_20221220/index.html",
+    "title": "OTW Guest Post",
+    "section": "",
+    "text": "Every month the Organization for Transformative Works (OTW) hosts guest posts on their OTW News accounts to provide an outside perspective on the OTW or aspects of fandom.\nRead my interview."
+  },
+  {
+    "objectID": "news/CREATE_20230126/index.html",
+    "href": "news/CREATE_20230126/index.html",
+    "title": "First event (Amsterdam + online)",
+    "section": "",
+    "text": "I’m very happy that the first public presentation of the GOLEM project will be at the CREATE Salon at the University of Amsterdam, 26 January 2023. Thanks to Melvin Wevers for the invitation!\nDate: Thursday, 26 January 2023\nTime: 15:00 – 17:00 CET\nLanguage: English\nChair: Melvin Wevers | Assistant Professor Urban History and Digital Methods, University of Amsterdam\nThis will be a hybrid event:\nPhysical Location: E-Lab (0.16), BG1, Media Studies, University of Amsterdam (Turfdraagsterpad 9)\nVirtual Location: Zoom Link\nRegistration: https://www.create.humanities.uva.nl/events/cultural-evolution/"
+  },
+  {
     "objectID": "news/collaborations/index.html",
     "href": "news/collaborations/index.html",
     "title": "Collaborate with us!",
     "section": "",
     "text": "We accept applications for externally funded PhD students, internships, and Postdocs. For example:\n\nfor Australians, the John Monash Scholarship\nfor Chinese, the China Scholarship Council (CSC) + top-up from the University of Groningen\nfor Indonesians, LPDP/DIKTI overseas scholarship\nif you received your Master degree in the Netherlands, NWO PhD in the Humanities\nyou can also check the grant finder for PhD in the Netherlands\nMSCA Postdoctoral Fellowship. Here is the 2023 timeline.\n\nIf you’re interested in collaborating or learning more about GOLEM, please get in touch (f[dot]pianzola[at]rug[dot]nl)."
+  },
+  {
+    "objectID": "news/EVO_AESTH_20230213/index.html",
+    "href": "news/EVO_AESTH_20230213/index.html",
+    "title": "Evolutionary Aesthetics Seminar",
+    "section": "",
+    "text": "The seminar consists of four presentations and ends with a roundtable. The presentations concern both empirical and philosophical approaches to Evolutionary Aesthetics.\nDate: Monday, 13 February 2023\nTime: 10:00 – 13:45 CET\nLanguage: English\nChair: Onerva Kiianlinna | Doctoral Researcher, Doctoral Programme in Philosophy, Arts, and Society, University of Helsinki\nVirtual Location: Zoom Link\nRegistration: ask onerva.kiianlinna[at]helsinki.fi\nSchedule 10:00–10:05 Opening\n10:05–10:35 Onerva Kiianlinna: “Three waves of evolutionary aesthetics”\nThe term “Evolutionary Aesthetics” has a history of more than 100 years. During this time, the field has changed according to the general changes in evolutionary thinking. I will review the characteristics of what I call the three waves of Evolutionary Aesthetics in relation to their historical contexts as well as each other.\n10:35–11:05 Mikko Ijäs: “The cognitive research approach of prehistoric art”\nThe Finnish researcher Mikko Ijäs will give a presentation on cognitive research of prehistoric rock-art. The cognitive changes the hunters have described, such as transformation experiences into a hunted prey animal, could be attributed to some of the earliest imagery humans have ever made.\n11:05–11:35 Federico Pianzola: “Testing evolutionary hypotheses for fiction”\nMy hypothesis is that fiction is a cultural cognitive tool evolving towards forms that elicit stronger presence and narrative absorption. In other words, the fictional forms that survive are those able to elicit more intense embodied simulations. I will present how this hypothesis can be tested combining computational text analysis and empirical research with readers.\n11:35–12:05 Mariagrazia Portera: “(Non-human) animal aesthetics? Promises and challenges of a comparative research program in aesthetics”\nWithin the field of evolutionary aesthetics, there has been traditionally (apart from anecdotal reports) only limited research on comparative approaches to aesthetics, i.e. on the idea that non-human animals possess an aesthetic capacity more or less in the same way that human beings do. This was, however, Charles Darwin’s main assumption in his evolutionary theory. In this paper, I shall use the concept of “mosaic evolution” to describe human aesthetic capacity as a multifactorial trait whose simplest expressions might have preceded Homo sapiens; each of the factors involved in human aesthetic capacity might have evolved at different times in different species, due to different mechanisms (exaptation, adaptation, non-adaptive structural side effect) and according to different comparative relationships (structural, phylogenetic, genetic homology, convergence)."
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Ontologies for Narrative and Fiction (online workshop)\n\n\n3-4 July 2023. Workshop about Ontologies for Narrative and Fiction.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is a Golem?\n\n\nA few thoughts about what a golem is\n\n\n\n\n\n\n\n\n\n\n\n\n\nCLS-INFRA fellowship\n\n\nCollaboration with the Dracor project (Univ. Potsdam) to design GOLEM as programmable corpora.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst event (Amsterdam + online)\n\n\n26 Jan. First presentation of the project at the CREATE Salon at the University of Amsterdam (+ online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent in Stuttgart\n\n\n27 Jan. Second presentation of the project at Stuttgart Media University\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvolutionary Aesthetics Seminar\n\n\nPresentation at the seminar \"Evolutionary Aesthetics as a Scholarly Discipline\" (online)\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborate with us!\n\n\nThe GOLEM project is open to new PhD students, internships, and other collaborations.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOTW Guest Post\n\n\nInterview posted on the blog of the Organization for Transformative Works\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/JVMG_20230128/index.html",
+    "href": "news/JVMG_20230128/index.html",
+    "title": "Event in Stuttgart",
+    "section": "",
+    "text": "On 27-28 January, I’ll be presenting the GOLEM project at a workshop organized by the Japanese Visual Media Graph project at at Stuttgart Media University. Thanks to Magnus Pfeffer, Martin Roth, and Zoltan Kacsuk for the invitation.\nThis is a very meaningful occasion because I started following the JVMG project in 2020 and I’m happy to see that the project will have e second phase in whch there will be a collaboration with GOLEM. More details about this will follow in due time."
+  },
+  {
+    "objectID": "news/dracor_20230327/index.html",
+    "href": "news/dracor_20230327/index.html",
+    "title": "CLS-INFRA fellowship",
+    "section": "",
+    "text": "I’ll be spending one month at the University of Potsdam thanks to a CLS-INFRA fellowship. I will collaborate with the Dracor team to align the construction of the GOLEM with the concept of “programmable corpora”.\nI started following the Dracor project in 2019 and it’s exciting to see more closely their outstanding achievements and technology. The GOLEM will adapt Dracor’s frontend and API to allow easy access to the metadata and extracted features of all the stories in the database."
   },
   {
     "objectID": "news/why_golem/index.html",
@@ -217,18 +196,39 @@
     "text": "PhD students\n// Update: application closed\n\n2 PhD positions in Digital Humanities and Natural Language Processing\nIn collaboration with the other team members, you will work on your own multilingual and cross-cultural research project. The project is very interdisciplinary, combining computational methods for the analysis of language and culture and psychometric experiments with readers. The focus will be on changes over a time span of 20 years in how people write (fanfiction) stories, in terms of themes, tropes, and style. In parallel, you will also look at how these changes influence the reception of stories. You will learn skills related to database management, linked data, data science, machine learning, and experimental design for reading research.\nThe universtiy of Groningen has very strong researchers working in Digital Humanities, Computational Linguistics, and Media Studies from which you can learn a lot.\nSee the official announcement for more information and to apply.\nWe also accept applications for externally funded PhD students and for internships. For example:\n\nfor Australians, the John Monash Scholarship\nfor Chinese, the China Scholarship Council (CSC) + top-up from the University of Groningen\nfor Indonesians, LPDP/DIKTI overseas scholarship\nif you received your Master degree in the Netherlands, NWO PhD in the Humanities\nyou can also check the grant finder for PhD in the Netherlands\n\nIf you’re interested in collaborating or learning more about GOLEM, please get in touch (f[dot]pianzola[at]rug[dot]nl)."
   },
   {
-    "objectID": "news/CREATE_20230126/index.html",
-    "href": "news/CREATE_20230126/index.html",
-    "title": "First event (Amsterdam + online)",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Golem Lab",
     "section": "",
-    "text": "I’m very happy that the first public presentation of the GOLEM project will be at the CREATE Salon at the University of Amsterdam, 26 January 2023. Thanks to Melvin Wevers for the invitation!\nDate: Thursday, 26 January 2023\nTime: 15:00 – 17:00 CET\nLanguage: English\nChair: Melvin Wevers | Assistant Professor Urban History and Digital Methods, University of Amsterdam\nThis will be a hybrid event:\nPhysical Location: E-Lab (0.16), BG1, Media Studies, University of Amsterdam (Turfdraagsterpad 9)\nVirtual Location: Zoom Link\nRegistration: https://www.create.humanities.uva.nl/events/cultural-evolution/"
+    "text": "The project\nThe “Graphs and Ontologies for Literary Evolution Models” is a 5-year (2023-2027) research project funded by the European Commission (ERC StG).\nThe goal of the project is to create accurate models of how the (formal and content-related) cultural traits of fiction spread and combine. The data used are (fan)fiction stories in 5 different languages (English, Spanish, Italian, Korean, and Indonesian) gathered from various online platforms.\nThe methodology mainly combines computational literary studies and cultural evolution theory, with influences from fan studies and information science.\nThe project is hosted by the University of Groningen (Netherlands), with the support of the Center for Language and Cognition, the Center for Digital Humanities, and the Jantina Tammes School of Digital Society, Technology and AI."
   },
   {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
+    "objectID": "about/index.html#project-description",
+    "href": "about/index.html#project-description",
+    "title": "Golem Lab",
+    "section": "Project description",
+    "text": "Project description\nMillions of stories are shared on online platforms such as Wattpad, AO3, and Fanfiction.net, combined with readers’ reactions and comments on these stories. The GOLEM project will analyze stories and their responses gathered from sites in five different languages – English, Spanish, Italian, Korean and Indonesian. This analysis can provide a wealth of information about the characters in a story, the genre, what a story is about, how a story is constructed, what themes are covered, as well as what readers from different countries and cultures find important in a story.\n\nWhat (linguistic, stylistic, thematic) elements in a story become popular in different languages?\nWhat makes a story get read, and what do readers value in a story?\n\nThe information we collect with this research makes it possible, with the help of computer models, to find answers to these kinds of questions. The goal is to test hypotheses about cultural evolution and develop a methodology that can also be applied to books from other periods in history. In this way, we can study the evolution of fiction over the centuries, and gain unprecedented insight into something as old as humanity itself: storytelling"
+  },
+  {
+    "objectID": "about/index.html#methodology",
+    "href": "about/index.html#methodology",
+    "title": "Golem Lab",
+    "section": "Methodology",
+    "text": "Methodology\nThe goal of GOLEM is to model the evolution of fiction in the context of digitalized and datafied culture, the so-called “digital literary sphere”. We will pursue this goal combining tools from computational literary studies and cultural evolution research. The outcomes of the project will be:\n\na knowledge graph database with interlinked metadata about millions of stories (shared online between 2000 and 2021) and readers’ response to them;\nnew formal models (theoretical and computational) to study fiction and reader response;\nan evolutionary account of how fiction evolves in terms of formal features and its effect on readers.\n\nThe GOLEM workflow will consist of four work packages:\n\nWP1. Knowledge graph database: the organization, interlinking, and storage of metadata about stories (stylistic elements, themes, etc.) and reader response (emotions felt, etc.) into a knowledge graph.\nWP2. Metadata generation: the generation of new metadata about textual features and reader response through modelling and machine learning. These metadata will then enrich the graph database.\nWP3. Hypotheses testing: the testing of evolutionary hypotheses using the knowledge graph database to select predictors and target variables of statistical models, and to create evolutionary models.\nWP4. Cross-validation with readers: the empirical qualitative and quantitative cross-validation with readers of the results from previous WPs, also in controlled experiments.\n\n“Metadata” (or “derivative data”) are all the descriptive or evaluative attributes assigned to a story, by lay readers, experts, or machines. Hence, metadata encode information related to cultural traits as various as genre, style, sentiment, themes, ratings, readers’ emotional response, etc., which will be stored in a graph database (WP1) in the form of statements (triples) of the kind: story1, is_instance_of, genre_romance, comment9, is_response_to, story1, and empathy, is_expressed_in, comment9. Metadata are an essential part of the GOLEM methodology, since they will be used as parameters when modelling the effects of fiction and its evolution (WP3). Therefore, besides the metadata collected from various datasets, additional metadata will be generated (WP2), in manual or automated ways, from stories and comments/reviews. These additional metadata will belong to classes defined in an ontology (developed in WP1), and they will mainly concern five aspects: genre, story elements, topics, stylistic elements, engagement. Eventually, they will be included in the graph database and linked to the appropriate stories, enriching their schematic representation and offering more parameters to create statistical models and test evolutionary hypotheses (WP3).\nMetadata will be generated (WP2) for both textual features and reader response features, and used (WP1) for two purposes: (i) to identify new cultural traits that could be added as classes of the GOLEM ontology and better describe stories; (ii) to expand the GOLEM knowledge graph by linking the stories in the datasets to the classes of the ontology. Then the knowledge stored in the graph database will be used to test evolutionary hypotheses (WP3), verifying the quality of methodology and results thanks to regular assessments and experiments in controlled conditions (WP4).\n\n\n\nFigure1\n\n\nDiagram of the project overall workflow. I highlighted in orange the process of assessment of metadata quality, which is part of the risk management strategy. Blue arrows indicate the process through which the graph database is continuously enlarged and enriched.\nThe representation of a story in a graph database is different from its representation as a digital edition with textual encoding (e.g. using TEI-XML). In a digital edition, the text-as-an-object is the starting point and the TEI version is a machine-readable description of it. In a knowledge graph, there is no centre, it is a network of interlinked data. Or, if we consider the text of a story as “data”, then the knowledge graph is a network of metadata describing various aspects of the text. A graph is a model of the text, generated according to some predefined rules that record the textual information and transform it into statements (triples). As such, a graph is a model based on some interpretative rules, which are declared openly (and recorded in the database) and thus allow for a transparent reconstruction of the process that led to a certain interpretation. But GOLEM also adopts a broader perspective – following the tradition of reception theory – and considers a story not as an isolated system but rather as part of a system of which the reader is also part. The GOLEM knowledge graph will be an innovative way of modelling stories as part of a social system, in which readers are represented as interacting with stories and between them, talking about stories.\n\nSimilar projects:\n\nDraCor\nMiMoText\nDigital Observatory of World Literature\nJapanese Visual Media Graph (JVMG)\nThe Under-Represented Writers Project\nTheme Ontology"
+  },
+  {
+    "objectID": "publications/first_wattpad/index.html",
+    "href": "publications/first_wattpad/index.html",
+    "title": "Wattpad as a resource for literary studies",
     "section": "",
-    "text": "Presence, flow, and narrative absorption\n\n\nWe presented a theoretical model clarifying the differences between various terms used in empirical research about users’ cognitive and affective engagement with various…\n\n\n\n2021-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural accumulation and improvement in online fan fiction\n\n\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinked-Potter\n\n\nOntology of tags used by authors of Harry Potter fanfiction on AO3.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWattpad as a resource for literary studies\n\n\nWe presented an overview of the possibility offered by a digital social reading platform like Wattpad for the study of reader response.\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNarrative as a Complex System\n\n\nNarrative is seen and used in many different ways that can be conceived as systems, i.e. considering that the properties of narrative cannot be studied in isolation but are…\n\n\n\n2018-01-01\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Download"
+  },
+  {
+    "objectID": "publications/first_wattpad/index.html#abstract",
+    "href": "publications/first_wattpad/index.html#abstract",
+    "title": "Wattpad as a resource for literary studies",
+    "section": "Abstract",
+    "text": "Abstract\nThe end of deep reading is a commonplace in public debates, whenever societies talk about youth, books, and the digital age. In contrast to this, we show for the first time and in detail, how intensively young readers write and comment literary texts at an unprecedented scale. We present several analyses of how fiction is transmitted through the social reading platform Wattpad, one of the largest platforms for user-generated stories, including novels, fanfiction, humour, classics, and poetry. By mixed quantitative and qualitative methods and scalable reading we scrutinise texts and comments on Wattpad, what themes are preferred in 13 languages, what role does genre play for readers behaviour, and what kind of emotional engagement is prevalent when young readers share stories. Our results point out the rise of a global reading culture in youth reading besides national preferences for certain topics and genres, patterns of reading engagement, aesthetic values and social interaction. When reading Teen Fiction social-bonding (affective interaction) is prevalent, when reading Classics social-cognitive interaction (collective intelligence) is prevalent. An educational outcome suggests that readers who engage in Teen Fiction learn to read Classics and to judge books not only indirect emotional response toc haracter’s behaviour, but focusing more on contextualised interpretation of the text.\nPianzola, F., Rebora, S., & Lauer, G. (2020). Wattpad as a resource for literary studies. Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins. PLoS ONE, 15(1). https://doi.org/10.1371/journal.pone.0226708\nData and code: https://osf.io/5gxmn/"
   },
   {
     "objectID": "publications/complexity/index.html",
@@ -252,17 +252,17 @@
     "text": "Abstract\nI am here proposing a strategy of consolidation for narrative studies. Disciplines and paradigms have their own specificities, which implicitly shape how we approach narrative phenomena. To make explicit such processes of selection and contextualization is an act of intellectual honesty and I suggest how to do it in three simple steps: (i) adopting a systemic perspective, (ii) distinguishing between logical levels, (iii) employing the Proteus Principle in the formation of theories. Narrative is seen and used in many different ways that can be conceived as systems, i.e. considering that the properties of narrative cannot be studied in isolation but are interconnected in a network of relations where all the components are influencing each other.\nPianzola, F. (2018). Looking at Narrative as a Complex System: The Proteus Principle. In R. Walsh & S. Stepney (Eds.), Narrating Complexity (pp. 101–122). Springer."
   },
   {
-    "objectID": "publications/chr2020/index.html",
-    "href": "publications/chr2020/index.html",
-    "title": "Cultural accumulation and improvement in online fan fiction",
+    "objectID": "publications/linked_potter/index.html",
+    "href": "publications/linked_potter/index.html",
+    "title": "Linked-Potter",
     "section": "",
     "text": "Download"
   },
   {
-    "objectID": "publications/chr2020/index.html#abstract",
-    "href": "publications/chr2020/index.html#abstract",
-    "title": "Cultural accumulation and improvement in online fan fiction",
+    "objectID": "publications/linked_potter/index.html#abstract",
+    "href": "publications/linked_potter/index.html#abstract",
+    "title": "Linked-Potter",
     "section": "Abstract",
-    "text": "Abstract\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution. In particular, we focus on cumulative cultural evolution, that is, the idea that cultural systems improve with time, drawing on previous innovations. In this study we examine two features of cumulative culture: accumulation and improvement. First, we show that stories in Harry Potter’s fan fiction accumulate cultural traits—unique tags, in our analysis—through time, both globally and at the level of single stories. Second, more recent stories are also liked more by readers than earlier stories. Our research illustrates the potential of the combination of cultural evolution theory and digital literary studies, and it paves the way for the study of the effects of online digital media on cultural cumulation.\nIn CHR 2020: Workshop on Computational Humanities Research, November 18–20, 2020, Amsterdam, The Netherlands"
+    "text": "Abstract\nUsing user-generated tags extracted from fanfiction stories (Archive of Our Own), I created an ontology to categorise the various metadata used by authors. I also created a knowledge base by linking the ontology with all the 30,000 unique tags used in Harry Potter fanfiction stories.\nPianzola, F. (2020). Linked-Potter: An example of ontology for the study of the evolution of literature and reading communities. In B. Hodošček (Ed.), JADH2020 Proceedings of the 10th Conference of the Japanese Association of Digital Humanities “A New Decade in Digital Scholarship: Microcosms and Hubs” (pp. 28–32). Graduate School of Language and Culture, Osaka University. https://jadh2020.lang.osaka-u.ac.jp/programme/longpaper/pianzola-linked.html\nData and code: https://github.com/fedormyskin/Linked-Potter"
   }
 ]
