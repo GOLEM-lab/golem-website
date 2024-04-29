@@ -14,14 +14,8 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/publications/index.html",
     "items": [
-      "/news/collaborations/index.html",
-      "/news/dracor_20230327/index.html",
-      "/news/ontology-workshop/index.html",
-      "/news/JVMG_20230128/index.html",
-      "/news/OTW_20221220/index.html",
-      "/news/why_golem/index.html",
       "/publications/OER_theory/index.html",
       "/publications/chr2020/index.html",
       "/publications/linked_potter/index.html",
@@ -30,8 +24,14 @@
     ]
   },
   {
-    "listing": "/publications/index.html",
+    "listing": "/index.html",
     "items": [
+      "/news/collaborations/index.html",
+      "/news/dracor_20230327/index.html",
+      "/news/ontology-workshop/index.html",
+      "/news/JVMG_20230128/index.html",
+      "/news/OTW_20221220/index.html",
+      "/news/why_golem/index.html",
       "/publications/OER_theory/index.html",
       "/publications/chr2020/index.html",
       "/publications/linked_potter/index.html",
