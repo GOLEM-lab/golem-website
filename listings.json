@@ -8,10 +8,10 @@
       "/news/ontology-workshop/index.html",
       "/news/OTW_20221220/index.html",
       "/news/why_golem/index.html",
+      "/publications/triple_store/index.html",
       "/publications/OER_theory/index.html",
       "/publications/chr2020/index.html",
       "/publications/linked_potter/index.html",
-      "/publications/triple_store/index.html",
       "/publications/first_wattpad/index.html",
       "/publications/complexity/index.html"
     ]
@@ -33,8 +33,8 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/OER_theory/index.html",
       "/publications/triple_store/index.html",
+      "/publications/OER_theory/index.html",
       "/publications/chr2020/index.html",
       "/publications/linked_potter/index.html",
       "/publications/first_wattpad/index.html",
