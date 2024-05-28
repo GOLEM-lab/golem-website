@@ -1,83 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://golemlab.eu/news/EVO_AESTH_20230213/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/why_golem/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.875Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/ontology-workshop/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/JVMG_20230128/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/CREATE_20230126/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/team/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.895Z</lastmod>
+    <loc>https://golemlab.eu/about/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.871Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/publications/complexity/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.879Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/OER_theory/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.875Z</lastmod>
+    <lastmod>2024-05-28T20:20:54.927Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/publications/chr2020/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.879Z</lastmod>
+    <lastmod>2024-05-28T20:20:54.927Z</lastmod>
   </url>
   <url>
-    <loc>https://golemlab.eu/publications/linked_potter/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/publications/first_wattpad/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/about/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.823Z</lastmod>
+    <loc>https://golemlab.eu/publications/OER_theory/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.923Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.823Z</lastmod>
+    <lastmod>2024-05-28T20:20:54.871Z</lastmod>
   </url>
   <url>
-    <loc>https://golemlab.eu/news/hiring/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/CHR_20231206/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.823Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/dracor_20230327/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://golemlab.eu/news/collaborations/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
+    <loc>https://golemlab.eu/news/JVMG_20230128/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.875Z</lastmod>
   </url>
   <url>
     <loc>https://golemlab.eu/news/OTW_20221220/index.html</loc>
-    <lastmod>2024-04-29T11:46:24.827Z</lastmod>
+    <lastmod>2024-05-28T20:20:54.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/CHR_20231206/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/ontology-workshop/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/EVO_AESTH_20230213/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/team/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.943Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/why_golem/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/hiring/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/CREATE_20230126/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/collaborations/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/news/dracor_20230327/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/linked_potter/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/first_wattpad/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://golemlab.eu/publications/triple_store/index.html</loc>
+    <lastmod>2024-05-28T20:20:54.939Z</lastmod>
   </url>
 </urlset>
