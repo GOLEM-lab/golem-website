@@ -13,7 +13,7 @@ about:
 The project
 :::
 
-The "Graphs and Ontologies for Literary Evolution Models" is a 5-year (2023-2027) research project [funded by the European Commission (ERC StG)](https://cordis.europa.eu/project/id/101040938).
+The "Graphs and Ontologies for Literary Evolution Models" is a 5-year (2023-2027) research project funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. This work is supported by ERC grant GOLEM ([101040938](https://cordis.europa.eu/project/id/101040938)).
 
 The **goal** of the project is to create accurate models of how the (formal and content-related) cultural traits of fiction spread and combine. The data used are (fan)fiction stories in 5 different languages (English, Spanish, Italian, Korean, and Indonesian) gathered from various online platforms.
 
