@@ -4,6 +4,7 @@ listing:
   id: news
   fields: [image, title, description]
   contents: 
+    - CHR_20241203
     - CHR_20231206
     - ontology-workshop
     - why_golem

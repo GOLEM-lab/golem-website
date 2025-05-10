@@ -30,8 +30,6 @@ website:
         href: https://mstdn.social/@fpianz
       - icon: github
         href: https://github.com/GOLEM-lab
-      - icon: <i class="ai ai-orcid" role="img"></i>
-        href: https://orcid.org/0000-0002-8419-8477
 
 format:
   html:
