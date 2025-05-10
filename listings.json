@@ -37,6 +37,7 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/CHR_20241203/index.html",
       "/news/CHR_20231206/index.html",
       "/news/ontology-workshop/index.html",
       "/news/why_golem/index.html",
