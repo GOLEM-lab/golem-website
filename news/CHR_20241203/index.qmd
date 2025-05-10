@@ -1,0 +1,19 @@
+---
+title: Three posters at CHR2024 (Aarhus)
+image: golem-kg_chr2024.png
+title-block-style: none
+toc: false
+priority: 1
+description: 3-5 December 2024. Posters of the project at the Computational Humanities Research conference.
+categories:
+  - events
+  - news
+---
+
+We'll have three posters at the [Computational Humanities Research conference](https://2024.computational-humanities-research.org/programme/) in Aarhus. This is now established as the most important and widely attended conference for computational approaches to the humanities.
+
+Full papers of the posters are available on the [Publications](https://golemlab.eu/publications/) page.
+
+![GOLEM poster 1](golem-kg_chr2024.png)
+![GOLEM poster 2](qidian_chr2024.png)
+![GOLEM poster 3](omegaverse_chr2024.png)

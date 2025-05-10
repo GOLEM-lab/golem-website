@@ -5,12 +5,6 @@ website:
   site-url: "https://golemlab.eu"
   title: "GOLEM Lab"
   favicon: "static/favicon.png"
-  twitter-card:
-    creator: "@fpianz"
-    site: "@fpianz"
-    description: "Digital Humanities research project about the cultural evolution of online fiction"
-    image: "static/img/avatar.png"
-    card-style: "summary"
   search: false
   open-graph: 
     site-name: GOLEM Lab
@@ -34,11 +28,9 @@ website:
     right:
       - icon: mastodon
         href: https://mstdn.social/@fpianz
-      - icon: twitter
-        href: https://twitter.com/fpianz
       - icon: github
         href: https://github.com/GOLEM-lab
-      - text: <i class="ai ai-orcid" role="img"></i>
+      - icon: <i class="ai ai-orcid" role="img"></i>
         href: https://orcid.org/0000-0002-8419-8477
 
 format:
