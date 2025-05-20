@@ -36,6 +36,7 @@ Introduction to the GOLEM project. Presentation held at the LitLab at KAIST (Sou
 {{< video https://youtu.be/Jitz4t_MyuA?si=yfHGD9tGgC9pdpLp >}}
 
 ------------------------------------------------------------------------
+
 ## Project description
 
 Millions of stories are shared on online platforms such as Wattpad, AO3, and Fanfiction.net, combined with readers' reactions and comments on these stories. The GOLEM project will analyze stories and their responses gathered from sites in five different languages -- **English, Spanish, Italian, Korean and Indonesian**. This analysis can provide a wealth of information about the characters in a story, the genre, what a story is about, how a story is constructed, what themes are covered, as well as what readers from different countries and cultures find important in a story.
