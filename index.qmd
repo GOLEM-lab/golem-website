@@ -26,6 +26,8 @@ listing:
   - id: publications
     fields: [title,date]
     contents: 
+      - publications/swj_character
+      - publications/swj_grounding
       - publications/chr2024_kg
       - publications/chr2024_qidian
       - publications/chr2024_omega
