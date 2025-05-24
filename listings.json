@@ -1,5 +1,21 @@
 [
   {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/swj_character/index.html",
+      "/publications/swj_grounding/index.html",
+      "/publications/chr2024_kg/index.html",
+      "/publications/chr2024_qidian/index.html",
+      "/publications/chr2024_omega/index.html",
+      "/publications/triple_store/index.html",
+      "/publications/OER_theory/index.html",
+      "/publications/chr2020/index.html",
+      "/publications/linked_potter/index.html",
+      "/publications/first_wattpad/index.html",
+      "/publications/complexity/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/news/CHR_20241203/index.html",
@@ -9,6 +25,8 @@
       "/news/ontology-workshop/index.html",
       "/news/OTW_20221220/index.html",
       "/news/why_golem/index.html",
+      "/publications/swj_character/index.html",
+      "/publications/swj_grounding/index.html",
       "/publications/chr2024_kg/index.html",
       "/publications/chr2024_qidian/index.html",
       "/publications/chr2024_omega/index.html",
@@ -33,20 +51,6 @@
       "/news/EVO_AESTH_20230213/index.html",
       "/news/collaborations/index.html",
       "/news/OTW_20221220/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/chr2024_kg/index.html",
-      "/publications/chr2024_qidian/index.html",
-      "/publications/chr2024_omega/index.html",
-      "/publications/triple_store/index.html",
-      "/publications/OER_theory/index.html",
-      "/publications/chr2020/index.html",
-      "/publications/linked_potter/index.html",
-      "/publications/first_wattpad/index.html",
-      "/publications/complexity/index.html"
     ]
   }
 ]

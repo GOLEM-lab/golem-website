@@ -42,6 +42,13 @@
     "text": "Abstract\nThis contribution presents the GOLEM Knowledge Graph and interface, offering different perspectives into content-related data and metadata from the domain of fanfiction narratives. The Knowledge Graph is aligned with common ontologies and vocabularies from the domains of narrative and cultural heritage. In this short paper, we outline how narrative organization and characters’ features are modelled in the GOLEM knowledge graph. The GOLEM UI is also presented, a user-friendly access point to the data that allows to browse the knowledge graph even without knowledge of SPARQL.\nIn Proceedings of the Computational Humanities Research Conference 2024, Aarhus, Denmark, December 4-6, 2024."
   },
   {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Fans Reconstruct Heroes: Modeling Fictional Characters in Participatory Culture\n\n\nCharacter module of the GOLEM ontology.\n\n\n\n2025-05-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrounding the development of an ontology for narrative and fiction\n\n\nTheoretical reflection on foundational ontologies and ontology mapping.\n\n\n\n2025-05-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe GOLEM-Knowledge Graph and Search Interface: Perspectives into Narrative and Fiction\n\n\nIntroducing the GOLEM Knowledge Graph and interface.\n\n\n\n2024-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcross the Pages: A Comparative Study of Reader Response to Web Novels in Chinese and English on Qidian and WebNovel\n\n\nTopic modelling of readers’ comments on web novels.\n\n\n\n2024-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring the Evolution of Gender Power Difference through the Omegaverse Trope on AO3 Fanfiction\n\n\nAnalysis of gender power difference between characters.\n\n\n\n2024-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe GOLEM Triple Store\n\n\nA Graph-Based Representation of Narrative and Fiction\n\n\n\n2024-05-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresence, flow, and narrative absorption\n\n\nWe presented a theoretical model clarifying the differences between various terms used in empirical research about users’ cognitive and affective engagement with various…\n\n\n\n2021-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural accumulation and improvement in online fan fiction\n\n\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinked-Potter\n\n\nOntology of tags used by authors of Harry Potter fanfiction on AO3.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nWattpad as a resource for literary studies\n\n\nWe presented an overview of the possibility offered by a digital social reading platform like Wattpad for the study of reader response.\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nNarrative as a Complex System\n\n\nNarrative is seen and used in many different ways that can be conceived as systems, i.e. considering that the properties of narrative cannot be studied in isolation but are…\n\n\n\n2018-01-01\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "publications/chr2020/index.html",
     "href": "publications/chr2020/index.html",
     "title": "Cultural accumulation and improvement in online fan fiction",
@@ -130,7 +137,7 @@
     "href": "news/collaborations/index.html",
     "title": "Collaborate with us!",
     "section": "",
-    "text": "Federico Pianzola\n\n2025-05-20\n\n\n\nWe accept applications for externally funded PhD students, internships, and Postdocs. For example:\n\nfor Australians, the John Monash Scholarship\nfor Chinese, the China Scholarship Council (CSC) + top-up from the University of Groningen\nfor Indonesians, LPDP/DIKTI overseas scholarship\nif you received your Master degree in the Netherlands, NWO PhD in the Humanities\nyou can also check the grant finder for PhD in the Netherlands\nMSCA Postdoctoral Fellowship. Here is the 2023 timeline.\n\nIf you’re interested in collaborating or learning more about GOLEM, please get in touch (f[dot]pianzola[at]rug[dot]nl)."
+    "text": "Federico Pianzola\n\n2025-05-24\n\n\n\nWe accept applications for externally funded PhD students, internships, and Postdocs. For example:\n\nfor Australians, the John Monash Scholarship\nfor Chinese, the China Scholarship Council (CSC) + top-up from the University of Groningen\nfor Indonesians, LPDP/DIKTI overseas scholarship\nif you received your Master degree in the Netherlands, NWO PhD in the Humanities\nyou can also check the grant finder for PhD in the Netherlands\nMSCA Postdoctoral Fellowship. Here is the 2023 timeline.\n\nIf you’re interested in collaborating or learning more about GOLEM, please get in touch (f[dot]pianzola[at]rug[dot]nl)."
   },
   {
     "objectID": "news/JVMG_20230128/index.html",
@@ -256,7 +263,7 @@
     "href": "news/hiring/index.html",
     "title": "We’re hiring!",
     "section": "",
-    "text": "Federico Pianzola\n\n2025-05-20\nThe GOLEM project will officially start in January 2023 and we’re looking for 4 people to join the team:"
+    "text": "Federico Pianzola\n\n2025-05-24\nThe GOLEM project will officially start in January 2023 and we’re looking for 4 people to join the team:"
   },
   {
     "objectID": "news/hiring/index.html#postdoc",
@@ -308,11 +315,32 @@
     "text": "Abstract\nThis study examines the evolution of gender power differences within the Omegaverse trope on the Archive of Our Own (AO3) fanfiction platform. The Omegaverse, a fan created trope defined by distinct secondary gender categories (Alpha, Beta, Omega), provides a lens to explore and critique gender dynamics. We used connotation frames and the Riveter NLP pipeline to measure power dynamics in Omegaverse slash relationships between characters. Our corpus includes English stories across eight prominent fandoms, including Japanese anime, K-pop, Western TV series, and Western films. Our findings show Alphas generally exhibit higher power scores than Omegas, consistent with the trope’s constructs, but with notable variance between fandoms, while most fandoms exhibit more within-group consensus when more fans start writing. This research offers insights into how fan communities evolve and challenge traditional power structures.\nIn Proceedings of the Computational Humanities Research Conference 2024, Aarhus, Denmark, December 4-6, 2024."
   },
   {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
+    "objectID": "publications/swj_character/index.html",
+    "href": "publications/swj_character/index.html",
+    "title": "Fans Reconstruct Heroes: Modeling Fictional Characters in Participatory Culture",
     "section": "",
-    "text": "The GOLEM-Knowledge Graph and Search Interface: Perspectives into Narrative and Fiction\n\n\nIntroducing the GOLEM Knowledge Graph and interface.\n\n\n\n2024-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcross the Pages: A Comparative Study of Reader Response to Web Novels in Chinese and English on Qidian and WebNovel\n\n\nTopic modelling of readers’ comments on web novels.\n\n\n\n2024-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring the Evolution of Gender Power Difference through the Omegaverse Trope on AO3 Fanfiction\n\n\nAnalysis of gender power difference between characters.\n\n\n\n2024-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe GOLEM Triple Store\n\n\nA Graph-Based Representation of Narrative and Fiction\n\n\n\n2024-05-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresence, flow, and narrative absorption\n\n\nWe presented a theoretical model clarifying the differences between various terms used in empirical research about users’ cognitive and affective engagement with various…\n\n\n\n2021-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural accumulation and improvement in online fan fiction\n\n\nWe analyse stories in Harry Potter fan fiction published on Archive of Our Own (AO3), using concepts from cultural evolution.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinked-Potter\n\n\nOntology of tags used by authors of Harry Potter fanfiction on AO3.\n\n\n\n2020-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nWattpad as a resource for literary studies\n\n\nWe presented an overview of the possibility offered by a digital social reading platform like Wattpad for the study of reader response.\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nNarrative as a Complex System\n\n\nNarrative is seen and used in many different ways that can be conceived as systems, i.e. considering that the properties of narrative cannot be studied in isolation but are…\n\n\n\n2018-01-01\n\n\n\n\n\n\nNo matching items"
+    "text": "Xiaoyan Yang and Federico Pianzola\n\n2025-05-01"
+  },
+  {
+    "objectID": "publications/swj_character/index.html#abstract",
+    "href": "publications/swj_character/index.html#abstract",
+    "title": "Fans Reconstruct Heroes: Modeling Fictional Characters in Participatory Culture",
+    "section": "Abstract",
+    "text": "Abstract\nThe study of fictional characters has always been a crucial part of literary research. Characters are one of the core elements that drive the development of narratives and convey the themes and messages of literary works. With the rise of participatory culture, especially fan cultures, the way people interact with and reinterpret fictional characters has become more complex and dynamic, a change that poses unique challenges and opportunities for analyzing character representation across cultures, genres, and platforms. This paper reports on, documents, and discusses a formal ontology that enables the systematic modeling and comparison of fictional characters across cultures and reading communities. Building upon literary theory and incorporating insights from crowd-sourced online databases, the GOLEM ontology provides a framework for analyzing both canonical characterizations and fan-driven reinterpretations.\nIn Semantic Web – Interoperability, Usability, Applicability"
+  },
+  {
+    "objectID": "publications/swj_grounding/index.html",
+    "href": "publications/swj_grounding/index.html",
+    "title": "Grounding the development of an ontology for narrative and fiction",
+    "section": "",
+    "text": "Luca Scotti, Federico Pianzola, and Franziska Pannach\n\n2025-05-01"
+  },
+  {
+    "objectID": "publications/swj_grounding/index.html#abstract",
+    "href": "publications/swj_grounding/index.html#abstract",
+    "title": "Grounding the development of an ontology for narrative and fiction",
+    "section": "Abstract",
+    "text": "Abstract\nThis paper investigates the methodological foundations and theoretical assumptions behind the construction of computational ontologies for modeling narrative and fiction, with a focus on literary characters. We survey and critically assess a set of existing domain-specific ontologies for fictional narrative, evaluating their modeling strategies, taking into consideration their philosophical and knowledge representation criteria. Drawing from ontology engineering principles and foundational frameworks such as DOLCE, BFO, and CIDOC-CRM, we propose a two-class ontology mapping methodology (harmonisation and alignment) to evaluate and foster semantic interoperability across the considered models. An experimental ontology pattern for fictional characters is then introduced and aligned with both DOLCE and BFO via CIDOC-CRM, revealing the ontological commitments and modeling trade-offs required to formalise the nuanced nature of fictional entities. This study offers a preliminary attempt to explore how foundational ontologies might support conceptual clarity, while also highlighting the epistemological challenges involved in representing complex, non-referential cultural artifacts. Ultimately, this work aims to highlight the relevance of ontologies as a shared infrastructure for computational literary studies, supporting interdisciplinary collaboration, fostering Open Science and encouraging more structured, transparent, and conceptually grounded approaches to the representation and analysis of cultural phenomena.\nIn Semantic Web – Interoperability, Usability, Applicability"
   },
   {
     "objectID": "publications/complexity/index.html",
