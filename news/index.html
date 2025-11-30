@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,14 +31,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-84d1d2c7b0ecbd8a61cc3fc79b47ab48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-00b8b756efe9602fc469d22967c841fd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-ac692166b1195cf97860f808610c3600.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-61cb44c10db6227e978a17d6ab244849.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -107,7 +108,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -139,7 +140,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../static/logotype_oblique.png" alt="" class="navbar-logo">
+    <img src="../static/logotype_oblique.png" alt="" class="navbar-logo light-content">
+    <img src="../static/logotype_oblique.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -205,7 +207,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-news">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1748416369867" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<div class="g-col-1" data-index="0" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1764514580649" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
 <a href="../news/CHR_20241203/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -221,7 +223,7 @@ Three posters at CHR2024 (Aarhus)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1748416369863" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<div class="g-col-1" data-index="1" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1764514580644" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
 <a href="../news/CHR_20231206/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -237,7 +239,7 @@ Poster at CHR2023 (Paris)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1748416369877" data-listing-reading-time-sort="1" data-listing-word-count-sort="193">
+<div class="g-col-1" data-index="2" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1764514580659" data-listing-reading-time-sort="1" data-listing-word-count-sort="193">
 <a href="../news/ontology-workshop/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -253,7 +255,7 @@ Ontologies for Narrative and Fiction (online workshop)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="bmV3cw==" data-listing-file-modified-sort="1748416369917" data-listing-reading-time-sort="7" data-listing-word-count-sort="1359">
+<div class="g-col-1" data-index="3" data-categories="bmV3cw==" data-listing-file-modified-sort="1764514580699" data-listing-reading-time-sort="7" data-listing-word-count-sort="1359">
 <a href="../news/why_golem/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -269,7 +271,7 @@ What is a Golem?
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="bmV3cw==" data-listing-file-modified-sort="1748416369877" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
+<div class="g-col-1" data-index="4" data-categories="bmV3cw==" data-listing-file-modified-sort="1764514580658" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
 <a href="../news/dracor_20230327/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -285,7 +287,7 @@ CLS-INFRA fellowship
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1748416369875" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
+<div class="g-col-1" data-index="5" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1764514580657" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
 <a href="../news/CREATE_20230126/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -301,7 +303,7 @@ First event (Amsterdam + online)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1748416369875" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<div class="g-col-1" data-index="6" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1764514580657" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
 <a href="../news/JVMG_20230128/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -317,7 +319,7 @@ Event in Stuttgart
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1748416369875" data-listing-reading-time-sort="2" data-listing-word-count-sort="360">
+<div class="g-col-1" data-index="7" data-categories="ZXZlbnRzJTJDbmV3cw==" data-listing-file-modified-sort="1764514580657" data-listing-reading-time-sort="2" data-listing-word-count-sort="360">
 <a href="../news/EVO_AESTH_20230213/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -333,7 +335,7 @@ Evolutionary Aesthetics Seminar
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="bmV3cw==" data-listing-date-sort="1748390400000" data-listing-file-modified-sort="1748416369876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<div class="g-col-1" data-index="8" data-categories="bmV3cw==" data-listing-date-sort="1764460800000" data-listing-file-modified-sort="1764514580657" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
 <a href="../news/collaborations/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -349,7 +351,7 @@ Collaborate with us!
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="bmV3cyUyQ21lZGlhLWNvdmVyYWdl" data-listing-date-sort="1671408000000" data-listing-file-modified-sort="1748416369876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="9" data-categories="bmV3cyUyQ21lZGlhLWNvdmVyYWdl" data-listing-date-sort="1671408000000" data-listing-file-modified-sort="1764514580657" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="../news/OTW_20221220/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -419,13 +421,14 @@ OTW Guest Post
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
