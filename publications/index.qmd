@@ -3,8 +3,11 @@ title: "Publications"
 listing:
   fields: [date,image,title,description]
   contents: 
+    - chr2025_death
+    - humanities_ontology
     - swj_character
     - swj_grounding
+    - semDH2025_query
     - chr2024_kg
     - chr2024_qidian
     - chr2024_omega

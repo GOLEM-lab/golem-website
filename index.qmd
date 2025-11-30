@@ -26,8 +26,11 @@ listing:
   - id: publications
     fields: [title,date]
     contents: 
+      - publications/chr2025_death
+      - publications/humanities_ontology
       - publications/swj_character
       - publications/swj_grounding
+      - publications/semDH2025_query
       - publications/chr2024_kg
       - publications/chr2024_qidian
       - publications/chr2024_omega
@@ -41,7 +44,7 @@ listing:
     table-hover: true
     date-format: medium
     image-align: left
-    max-items: 10
+    max-items: 20
     sort-ui: false
     filter-ui: false
     sort: "date desc"
